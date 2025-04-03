@@ -58,20 +58,28 @@ if __name__ == "__main__":
     repo_options = {
         '1': "https://github.com/apache/openoffice.git",
         '2': "https://github.com/apache/lucene.git",
-        '3': "https://github.com/apache/maven.git"
+        '3': "https://github.com/apache/maven.git",
+        '4': "https://github.com/vprusso/toqito.git",
+        '5': "https://github.com/OpenBB-finance/OpenBB.git",
+        '6': "https://github.com/ShareX/ShareX.git",
+        '7': "https://github.com/d2phap/ImageGlass.git"
     }
 
     print("Choose a repo to analyze:")
     print("1. Open Office")
     print("2. Lucene")
     print("3. Maven")
-    print("4. Enter a custom repo URL\n")
+    print("4. Toqito")
+    print("5. OpenBB")
+    print("6. ShareX")
+    print("7. ImageGlass")
+    print("8. Enter a custom repo URL\n")
 
-    choice = input("Enter your choice (1/2/3/4): ").strip()
+    choice = input("Enter your choice (1/2/3/4/5/6/7/8): ").strip()
 
     if choice in repo_options:
         repo_url = repo_options[choice]
-    elif choice == '4':
+    elif choice == '8':
         repo_url = input("Enter the GitHub repo URL: ")
     else:
         print("Invalid choice. Exiting.")
