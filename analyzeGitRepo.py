@@ -21,7 +21,7 @@ def get_file_changes(repo_path: str) -> Dict[str, int]:
     file_changes = {}
 
     for line in result.stdout.splitlines():
-        if line.strip():  # Ignore Empty
+        if line.strip():
             if line not in file_changes:
                 file_changes[line] = 0
             file_changes[line] += 1
@@ -39,7 +39,7 @@ def save_to_csv(file_changes: Dict[str, int], output_file: str) -> None:
 
 
 def analyze_repo(repo_url: str, output_csv: str) -> None:
-    # Create a permanent directory instead of using TemporaryDirectory
+    
     temp_dir = tempfile.mkdtemp()
 
     try:
@@ -47,7 +47,7 @@ def analyze_repo(repo_url: str, output_csv: str) -> None:
         file_changes = get_file_changes(temp_dir)
         save_to_csv(file_changes, output_csv)
     finally:
-        # Remove the directory explicitly only after everything is done
+        
         try:
             shutil.rmtree(temp_dir)
         except PermissionError:

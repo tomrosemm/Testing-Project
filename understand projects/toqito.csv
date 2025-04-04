@@ -1,0 +1,2903 @@
+Kind,Name,AvgCyclomatic,CountLine,CountLineCode,CountLineComment,Cyclomatic,MaxCyclomatic,MaxInheritanceTree,MaxNesting,RatioCommentToCode,SumCyclomatic
+Unknown Class,"TestCase",,,,,,,,,0.00,
+Unknown Class,"TestCase",,,,,,,,,0.00,
+Unknown Class,"TestCase",,,,,,,,,0.00,
+Unknown Class,"TestCase",,,,,,,,,0.00,
+File,"__init__.py",0,7,5,1,0,0,,0,0.20,0
+File,"__init__.py",0,13,11,1,0,0,,0,0.09,0
+File,"__init__.py",0,9,7,1,0,0,,0,0.14,0
+File,"__init__.py",0,11,9,1,0,0,,0,0.11,0
+File,"__init__.py",0,35,33,1,0,0,,0,0.03,0
+File,"__init__.py",0,11,9,1,0,0,,0,0.11,0
+File,"__init__.py",0,26,24,1,0,0,,0,0.04,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,12,10,1,0,0,,0,0.10,0
+File,"__init__.py",0,27,22,3,0,0,,0,0.14,0
+File,"__init__.py",0,7,5,1,0,0,,0,0.20,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,13,11,1,0,0,,0,0.09,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,3,1,1,0,0,,0,1.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,11,9,1,0,0,,0,0.11,0
+File,"__init__.py",0,3,1,1,0,0,,0,1.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,3,1,1,0,0,,0,1.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,4,2,1,0,0,,0,0.50,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,6,4,1,0,0,,0,0.25,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,12,10,1,0,0,,0,0.10,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,11,6,3,0,0,,0,0.50,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+File,"__init__.py",0,1,0,1,0,0,,0,0.00,0
+Module File,"amplitude_damping.py",5,85,25,39,0,5,,1,1.56,5
+Module File,"antisymmetric_projection.py",5,97,18,56,0,5,,1,3.11,5
+Module File,"apply_channel.py",6,149,38,76,0,6,,2,2.00,6
+Module File,"basis.py",2,55,7,31,0,2,,1,4.43,2
+Module File,"bb84.py",1,48,6,29,0,1,,0,4.83,1
+Module File,"bell.py",5,66,14,37,0,5,,0,2.64,5
+Module File,"bell_inequality_max.py",14,149,52,67,0,14,,5,1.29,14
+Module File,"bitflip.py",4,79,15,40,0,4,,1,2.67,4
+Module File,"brauer.py",2,76,12,47,0,2,,1,3.92,2
+Module File,"breuer.py",2,53,10,27,0,2,,1,2.70,2
+Module File,"bures_angle.py",2,72,6,48,0,2,,1,8.00,2
+Module File,"bures_distance.py",2,73,6,48,0,2,,1,8.00,2
+Module File,"calculate_vector_matrix_dimension.py",6,37,13,16,0,6,,2,1.23,6
+Module File,"channel_dim.py",9,146,74,43,0,13,,2,0.58,17
+Module File,"channel_fidelity.py",3,100,19,55,0,3,,1,2.89,3
+Package,"channel_metrics",0,7,5,1,,0,,0,,0
+Package,"channel_metrics",3,100,19,55,,3,,1,,3
+Package,"channel_metrics",0,0,0,0,,0,,0,,0
+Package,"channel_metrics",1,35,5,20,,1,,0,,1
+Package,"channel_metrics",4,71,26,26,,4,,1,,4
+Package,"channel_metrics",0,0,0,0,,0,,0,,0
+Package,"channel_metrics",1,54,4,35,,1,,0,,1
+Package,"channel_metrics",5,178,54,87,,5,,1,,5
+Package,"channel_metrics",0,1,0,1,,0,,0,,0
+Package,"channel_metrics",0,0,0,0,,0,,0,,0
+Package,"channel_metrics",0,0,0,0,,0,,0,,0
+Package,"channel_metrics",0,0,0,0,,0,,0,,0
+Package,"channel_metrics",0,0,0,0,,0,,0,,0
+Package,"channel_metrics",0,0,0,0,,0,,0,,0
+Function,"channel_metrics.channel_fidelity.channel_fidelity",,92,16,54,3,,,1,3.38,
+Function,"channel_metrics.completely_bounded_spectral_norm.completely_bounded_spectral_norm",,27,2,19,1,,,0,9.50,
+Function,"channel_metrics.completely_bounded_trace_norm.completely_bounded_trace_norm",,61,21,25,4,,,1,1.19,
+Function,"channel_metrics.diamond_distance.diamond_distance",,49,3,34,1,,,0,11.33,
+Function,"channel_metrics.fidelity_of_separability.fidelity_of_separability",,163,49,82,5,,,1,1.67,
+Package,"channel_metrics.tests",0,1,0,1,,0,,0,,0
+Package,"channel_metrics.tests",1,44,30,7,,1,,1,,3
+Package,"channel_metrics.tests",1,14,9,2,,1,,0,,1
+Package,"channel_metrics.tests",1,45,30,9,,1,,1,,3
+Package,"channel_metrics.tests",1,41,28,7,,1,,1,,2
+Package,"channel_metrics.tests",1,48,30,9,,1,,1,,3
+Function,"channel_metrics.tests.test_channel_fidelity.test_channel_fidelity",,4,3,1,1,,,0,0.33,
+Function,"channel_metrics.tests.test_channel_fidelity.test_channel_fidelity_raises_error",,4,3,1,1,,,1,0.33,
+Function,"channel_metrics.tests.test_completely_bounded_spectral_norm.test_dual_is_cb_trace_norm",,4,3,1,1,,,0,0.33,
+Function,"channel_metrics.tests.test_completely_bounded_trace_norm.test_cb_trace_norm",,4,3,1,1,,,0,0.33,
+Function,"channel_metrics.tests.test_completely_bounded_trace_norm.test_cb_trace_norm_invalid_input",,8,7,1,1,,,1,0.14,
+Function,"channel_metrics.tests.test_diamond_distance.test_diamond_norm_invalid_inputs",,4,3,1,1,,,1,0.33,
+Function,"channel_metrics.tests.test_diamond_distance.test_diamond_norm_valid_inputs",,4,3,1,1,,,0,0.33,
+Function,"channel_metrics.tests.test_fidelity_of_separability.test_errors_channel_SDP",,4,3,1,1,,,1,0.33,
+Function,"channel_metrics.tests.test_fidelity_of_separability.test_sdp_output",,4,3,1,1,,,0,0.33,
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,9,7,1,,0,,0,,0
+Package,"channel_ops",6,149,38,76,,6,,2,,6
+Package,"channel_ops",3,126,33,68,,3,,2,,3
+Package,"channel_ops",6,103,19,63,,6,,1,,6
+Package,"channel_ops",6,97,16,62,,6,,2,,6
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",1,72,14,40,,1,,0,,1
+Package,"channel_ops",2,33,7,18,,2,,1,,2
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",12,195,95,68,,12,,3,,12
+Package,"channel_ops",0,1,0,1,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Package,"channel_ops",0,0,0,0,,0,,0,,0
+Function,"channel_ops.apply_channel.apply_channel",,139,34,75,6,,,2,2.21,
+Function,"channel_ops.choi_to_kraus.choi_to_kraus",,117,29,67,3,,,2,2.31,
+Function,"channel_ops.complementary_channel.complementary_channel",,98,18,62,6,,,1,3.44,
+Function,"channel_ops.dual_channel.dual_channel",,89,13,61,6,,,2,4.69,
+Function,"channel_ops.kraus_to_choi.kraus_to_choi",,63,10,39,1,,,0,3.90,
+Function,"channel_ops.natural_representation.natural_representation",,26,5,17,2,,,1,3.40,
+Function,"channel_ops.partial_channel.partial_channel",,184,90,67,12,,,3,0.74,
+Package,"channel_ops.tests",0,1,0,1,,0,,0,,0
+Package,"channel_ops.tests",2,61,38,11,,3,,1,,6
+Package,"channel_ops.tests",2,133,109,7,,4,,2,,7
+Package,"channel_ops.tests",1,77,50,18,,2,,1,,4
+Package,"channel_ops.tests",1,94,69,12,,2,,1,,4
+Package,"channel_ops.tests",1,130,101,8,,1,,0,,2
+Package,"channel_ops.tests",1,74,52,10,,1,,1,,5
+Package,"channel_ops.tests",3,166,135,11,,4,,2,,10
+Function,"channel_ops.tests.test_apply_channel.test_apply_channel",,4,3,1,1,,,0,0.33,
+Function,"channel_ops.tests.test_apply_channel.test_apply_channel_cpt_kraus",,14,10,1,3,,,1,0.10,
+Function,"channel_ops.tests.test_apply_channel.test_apply_channel_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"channel_ops.tests.test_choi_to_kraus.test_choi_to_kraus",,11,8,1,4,,,2,0.13,
+Function,"channel_ops.tests.test_choi_to_kraus.test_choi_to_kraus_general_map",,8,5,1,1,,,0,0.20,
+Function,"channel_ops.tests.test_choi_to_kraus.test_choi_to_kraus_non_square_reduced_rank",,7,6,1,1,,,0,0.17,
+Function,"channel_ops.tests.test_complementary_channel.test_complementary_channel",,8,5,2,2,,,1,0.40,
+Function,"channel_ops.tests.test_complementary_channel.test_complementary_channel_error",,4,3,1,1,,,1,0.33,
+Function,"channel_ops.tests.test_dual_channel.test_dual_channel",,8,6,1,2,,,1,0.17,
+Function,"channel_ops.tests.test_dual_channel.test_dual_channel_error",,4,3,1,1,,,1,0.33,
+Function,"channel_ops.tests.test_kraus_to_choi.test_kraus_to_choi",,4,3,1,1,,,0,0.33,
+Function,"channel_ops.tests.test_natural_representataion.test_natural_representation_completeness",,5,4,1,1,,,0,0.25,
+Function,"channel_ops.tests.test_natural_representataion.test_natural_representation_different_dimensions",,6,5,1,1,,,1,0.20,
+Function,"channel_ops.tests.test_natural_representataion.test_natural_representation_trace_preserving",,8,7,1,1,,,0,0.14,
+Function,"channel_ops.tests.test_natural_representataion.test_natural_representation_valid_inputs",,4,3,1,1,,,0,0.33,
+Function,"channel_ops.tests.test_partial_channel.test_partial_channel",,10,8,1,4,,,1,0.13,
+Function,"channel_ops.tests.test_partial_channel.test_partial_channel_cpt_kraus",,21,17,1,3,,,1,0.06,
+Function,"channel_ops.tests.test_partial_channel.test_partial_channel_error",,8,6,1,2,,,2,0.17,
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,11,9,1,,0,,0,,0
+Package,"channel_props",3,82,8,56,,3,,1,,3
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",2,94,12,57,,2,,1,,2
+Package,"channel_props",8,94,27,45,,8,,2,,8
+Package,"channel_props",3,82,13,48,,3,,1,,3
+Package,"channel_props",2,80,11,47,,2,,1,,2
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",2,80,11,49,,2,,1,,2
+Package,"channel_props",3,106,21,58,,3,,1,,3
+Package,"channel_props",1,69,13,38,,1,,0,,1
+Package,"channel_props",6,91,17,52,,6,,2,,6
+Package,"channel_props",0,1,0,1,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Package,"channel_props",0,0,0,0,,0,,0,,0
+Function,"channel_props.choi_rank.choi_rank",,75,6,55,3,,,1,9.17,
+Function,"channel_props.is_completely_positive.is_completely_positive",,85,8,56,2,,,1,7.00,
+Function,"channel_props.is_extremal.is_extremal",,86,24,44,8,,,2,1.83,
+Function,"channel_props.is_herm_preserving.is_herm_preserving",,74,10,47,3,,,1,4.70,
+Function,"channel_props.is_positive.is_positive",,72,8,46,2,,,1,5.75,
+Function,"channel_props.is_quantum_channel.is_quantum_channel",,72,8,48,2,,,1,6.00,
+Function,"channel_props.is_trace_preserving.is_trace_preserving",,98,18,57,3,,,1,3.17,
+Function,"channel_props.is_unital.is_unital",,60,9,37,1,,,0,4.11,
+Function,"channel_props.is_unitary.is_unitary",,83,14,51,6,,,2,3.64,
+Package,"channel_props.tests",0,1,0,1,,0,,0,,0
+Package,"channel_props.tests",1,42,26,6,,1,,1,,3
+Package,"channel_props.tests",1,19,9,3,,1,,0,,2
+Package,"channel_props.tests",1,98,63,20,,1,,1,,2
+Package,"channel_props.tests",1,34,17,5,,1,,0,,4
+Package,"channel_props.tests",1,19,9,3,,1,,0,,2
+Package,"channel_props.tests",1,19,9,3,,1,,0,,2
+Package,"channel_props.tests",1,19,12,2,,1,,0,,2
+Package,"channel_props.tests",1,59,37,7,,1,,1,,6
+Package,"channel_props.tests",1,42,20,7,,1,,0,,6
+Function,"channel_props.tests.test_choi_rank.test_choi_bad_input",,8,4,3,1,,,1,0.75,
+Function,"channel_props.tests.test_choi_rank.test_choi_rank_choi_matrix",,4,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_choi_rank.test_choi_rank_list_kraus",,18,16,1,1,,,0,0.06,
+Function,"channel_props.tests.test_is_completely_positive.test_is_completely_positive_choi_true",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_completely_positive.test_is_completely_positive_kraus_false",,6,4,1,1,,,0,0.25,
+Function,"channel_props.tests.test_is_extremal.test_is_extremal",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_extremal.test_is_extremal_value_errors",,4,3,1,1,,,1,0.33,
+Function,"channel_props.tests.test_is_herm_preserving.test_is_herm_preserving_choi_true",,4,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_is_herm_preserving.test_is_herm_preserving_kraus_false",,6,4,1,1,,,0,0.25,
+Function,"channel_props.tests.test_is_herm_preserving.test_is_herm_preserving_kraus_true",,6,4,1,1,,,0,0.25,
+Function,"channel_props.tests.test_is_herm_preserving.test_is_herm_preserving_non_square",,4,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_is_positive.test_is_positive_choi_true",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_positive.test_is_positive_kraus_false",,6,4,1,1,,,0,0.25,
+Function,"channel_props.tests.test_is_quantum_channel.test_is_completely_positive_choi_true",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_quantum_channel.test_is_completely_positive_kraus_false",,6,4,1,1,,,0,0.25,
+Function,"channel_props.tests.test_is_trace_preserving.test_is_trace_prserving",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_unital.test_is_unital_choi_isometry_true",,5,4,1,1,,,0,0.25,
+Function,"channel_props.tests.test_is_unital.test_is_unital_depolarizing_choi_true",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_unital.test_is_unital_isometry_true",,4,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_is_unital.test_is_unital_isometry_true_unspecified_dim",,6,5,1,1,,,1,0.20,
+Function,"channel_props.tests.test_is_unital.test_is_unital_kraus_true",,18,16,1,1,,,0,0.06,
+Function,"channel_props.tests.test_is_unital.test_is_unital_swap_operator_choi_true",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_unitary.test_is_unitary_cp_channel_false",,4,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_is_unitary.test_is_unitary_depolarizing_false",,3,2,1,1,,,0,0.50,
+Function,"channel_props.tests.test_is_unitary.test_is_unitary_false",,4,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_is_unitary.test_is_unitary_identity_channel_true",,5,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_is_unitary.test_is_unitary_isometry_false",,4,3,1,1,,,0,0.33,
+Function,"channel_props.tests.test_is_unitary.test_is_unitary_transpose_map_false",,3,2,1,1,,,0,0.50,
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,13,11,1,,0,,0,,0
+Package,"channels",5,85,25,39,,5,,1,,5
+Package,"channels",4,79,15,40,,4,,1,,4
+Package,"channels",1,106,5,79,,1,,0,,1
+Package,"channels",1,89,5,61,,1,,0,,1
+Package,"channels",1,95,5,64,,1,,0,,1
+Package,"channels",15,215,66,112,,15,,3,,15
+Package,"channels",12,203,75,90,,12,,2,,12
+Package,"channels",10,104,34,45,,10,,2,,10
+Package,"channels",4,58,15,28,,4,,1,,4
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",6,80,25,35,,6,,1,,6
+Package,"channels",1,52,7,32,,1,,0,,1
+Package,"channels",0,1,0,1,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Package,"channels",0,0,0,0,,0,,0,,0
+Function,"channels.amplitude_damping.amplitude_damping",,80,24,38,5,,,1,1.58,
+Function,"channels.bitflip.bitflip",,74,14,39,4,,,1,2.79,
+Function,"channels.choi.choi",,99,3,78,1,,,0,26.00,
+Function,"channels.dephasing.dephasing",,82,3,60,1,,,0,20.00,
+Function,"channels.depolarizing.depolarizing",,88,3,63,1,,,0,21.00,
+Function,"channels.partial_trace.partial_trace",,205,61,111,15,,,3,1.82,
+Function,"channels.partial_transpose.partial_transpose",,193,70,89,12,,,2,1.27,
+Function,"channels.pauli_channel.pauli_channel",,94,29,44,10,,,2,1.52,
+Function,"channels.phase_damping.phase_damping",,53,14,27,4,,,1,1.93,
+Function,"channels.realignment.realignment",,72,22,34,6,,,1,1.55,
+Function,"channels.reduction.reduction",,44,4,31,1,,,0,7.75,
+Package,"channels.tests",0,1,0,1,,0,,0,,0
+Package,"channels.tests",2,112,76,19,,5,,2,,9
+Package,"channels.tests",1,83,58,13,,1,,1,,6
+Package,"channels.tests",1,52,36,5,,1,,0,,2
+Package,"channels.tests",1,30,16,3,,1,,0,,2
+Package,"channels.tests",1,30,16,3,,1,,0,,2
+Package,"channels.tests",1,629,547,71,,1,,1,,4
+Package,"channels.tests",1,740,585,60,,1,,1,,19
+Package,"channels.tests",2,169,91,36,,3,,2,,9
+Package,"channels.tests",2,102,65,17,,3,,1,,9
+Package,"channels.tests",1,72,47,11,,1,,0,,4
+Package,"channels.tests",1,43,33,3,,1,,0,,2
+Function,"channels.tests.test_amplitude_damping.test_amplitude_damping",,33,22,7,5,,,2,0.32,
+Function,"channels.tests.test_amplitude_damping.test_input_and_return_type",,12,8,3,2,,,1,0.38,
+Function,"channels.tests.test_amplitude_damping.test_invalid_dimension",,4,3,1,1,,,1,0.33,
+Function,"channels.tests.test_amplitude_damping.test_invalid_parameters",,7,5,1,1,,,1,0.20,
+Function,"channels.tests.test_bitflip.test_apply_to_mixed_state",,8,6,1,1,,,0,0.17,
+Function,"channels.tests.test_bitflip.test_apply_to_state",,4,3,1,1,,,0,0.33,
+Function,"channels.tests.test_bitflip.test_bitflip_probabilities",,4,3,1,1,,,0,0.33,
+Function,"channels.tests.test_bitflip.test_invalid_dimension",,4,3,1,1,,,1,0.33,
+Function,"channels.tests.test_bitflip.test_invalid_probability",,4,3,1,1,,,1,0.33,
+Function,"channels.tests.test_bitflip.test_kraus_operators",,9,7,2,1,,,0,0.29,
+Function,"channels.tests.test_choi.test_choi_reduction",,23,17,3,1,,,0,0.18,
+Function,"channels.tests.test_choi.test_choi_standard",,20,17,1,1,,,0,0.06,
+Function,"channels.tests.test_dephasing.test_dephasing_completely_dephasing",,10,6,1,1,,,0,0.17,
+Function,"channels.tests.test_dephasing.test_dephasing_partially_dephasing",,10,7,1,1,,,0,0.14,
+Function,"channels.tests.test_depolarizing.test_depolarizing_complete_depolarizing",,10,6,1,1,,,0,0.17,
+Function,"channels.tests.test_depolarizing.test_depolarizing_partially_depolarizing",,10,7,1,1,,,0,0.14,
+Function,"channels.tests.test_partial_trace.test_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"channels.tests.test_partial_trace.test_is_trace_prserving",,4,3,1,1,,,0,0.33,
+Function,"channels.tests.test_partial_trace.test_partial_trace_cvxpy",,5,4,1,1,,,0,0.25,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose",,14,6,4,1,,,0,0.67,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_16_by_16_subsystems_2_2_2_2",,253,232,11,1,,,0,0.05,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_6_by_6_subsystems_2_3",,48,41,4,1,,,0,0.10,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_6_by_6_subsystems_3_2",,48,41,4,1,,,0,0.10,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_8_by_8_subsystems_2_2_2",,105,92,7,1,,,0,0.08,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_8_by_8_subsystems_2_4",,54,47,4,1,,,0,0.09,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_8_by_8_subsystems_4_2",,54,47,4,1,,,0,0.09,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_bell_state",,6,5,1,1,,,0,0.20,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_bipartite",,21,14,4,1,,,0,0.29,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_cvxpy",,5,4,1,1,,,0,0.25,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_non_square",,12,8,1,1,,,0,0.13,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_non_square_matrix",,5,4,1,1,,,1,0.25,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_non_square_matrix_2",,5,4,1,1,,,1,0.25,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_norm_diff",,11,5,4,1,,,0,0.80,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_sys",,14,6,4,1,,,0,0.67,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_sys_int",,10,6,1,1,,,0,0.17,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_sys_vec",,10,6,1,1,,,0,0.17,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_sys_vec_dim_vec",,10,6,1,1,,,0,0.17,
+Function,"channels.tests.test_partial_transpose.test_partial_transpose_three_subsystems",,9,6,1,1,,,0,0.17,
+Function,"channels.tests.test_pauli_channel.test_pauli_channel_choi_matrix_properties",,30,14,7,1,,,0,0.50,
+Function,"channels.tests.test_pauli_channel.test_pauli_channel_dimensions",,5,4,1,1,,,0,0.25,
+Function,"channels.tests.test_pauli_channel.test_pauli_channel_input_matrix_properties",,28,13,6,1,,,0,0.46,
+Function,"channels.tests.test_pauli_channel.test_pauli_channel_kraus_operators",,19,8,6,2,,,1,0.75,
+Function,"channels.tests.test_pauli_channel.test_pauli_channel_valid_probability",,11,10,1,1,,,1,0.10,
+Function,"channels.tests.test_pauli_channel.test_pauli_channel_zero_probability",,11,5,4,3,,,2,0.80,
+Function,"channels.tests.test_phase_damping.test_apply_to_states",,13,9,1,2,,,1,0.11,
+Function,"channels.tests.test_phase_damping.test_input_and_return_type",,12,8,3,2,,,1,0.38,
+Function,"channels.tests.test_phase_damping.test_invalid_dimension",,4,3,1,1,,,1,0.33,
+Function,"channels.tests.test_phase_damping.test_invalid_gamma",,4,3,1,1,,,1,0.33,
+Function,"channels.tests.test_phase_damping.test_kraus_operators",,15,11,1,3,,,1,0.09,
+Function,"channels.tests.test_realignment.test_realignment_int_dim",,8,5,1,1,,,0,0.20,
+Function,"channels.tests.test_realignment.test_realignment_non_square",,23,18,4,1,,,0,0.22,
+Function,"channels.tests.test_realignment.test_realignment_non_square_list_dims",,19,18,1,1,,,0,0.06,
+Function,"channels.tests.test_realignment.test_realignment_two_qubit",,9,4,4,1,,,0,1.00,
+Function,"channels.tests.test_reduction.test_reduction_map",,15,14,1,1,,,0,0.07,
+Function,"channels.tests.test_reduction.test_reduction_map_dim_3_k_2",,19,17,1,1,,,0,0.06,
+Module File,"chessboard.py",3,65,12,40,0,3,,1,3.33,3
+Module File,"choi.py",1,106,5,79,0,1,,0,15.80,1
+Module File,"choi_rank.py",3,82,8,56,0,3,,1,7.00,3
+Module File,"choi_to_kraus.py",3,126,33,68,0,3,,2,2.06,3
+Module File,"cnot.py",1,40,3,25,0,1,,0,8.33,1
+Module File,"common_quantum_overlap.py",1,78,6,49,0,1,,0,8.17,1
+Module File,"complementary_channel.py",6,103,19,63,0,6,,1,3.32,6
+Module File,"completely_bounded_spectral_norm.py",1,35,5,20,0,1,,0,4.00,1
+Module File,"completely_bounded_trace_norm.py",4,71,26,26,0,4,,1,1.00,4
+Module File,"concurrence.py",2,89,11,51,0,2,,1,4.64,2
+Module File,"conf.py",1,121,66,36,1,1,,0,0.55,1
+Module File,"cyclic_permutation_matrix.py",1,59,7,38,0,1,,0,5.43,1
+Module File,"dephasing.py",1,89,5,61,0,1,,0,12.20,1
+Module File,"depolarizing.py",1,95,5,64,0,1,,0,12.80,1
+Module File,"diamond_distance.py",1,54,4,35,0,1,,0,8.75,1
+Module File,"dicke.py",4,74,16,41,0,4,,1,2.56,4
+Module File,"domino.py",10,105,24,61,0,10,,0,2.54,10
+Module File,"dual_channel.py",6,97,16,62,0,6,,2,3.88,6
+Module File,"entanglement_of_formation.py",10,105,36,45,0,10,,2,1.25,10
+Module File,"expr_as_np_array.py",4,23,13,6,0,4,,1,0.46,4
+Module File,"extended_nonlocal_game.py",10,469,262,127,0,25,,5,0.48,67
+Module File,"fidelity.py",4,87,18,47,0,4,,1,2.61,4
+Module File,"fidelity_of_separability.py",5,178,54,87,0,5,,1,1.61,5
+Module File,"fidelity_of_separability.py",6,181,49,95,0,6,,1,1.94,6
+Module File,"fourier.py",1,60,6,40,0,1,,0,6.67,1
+Module File,"gell_mann.py",11,124,27,79,0,11,,1,2.93,11
+Module File,"gen_bell.py",1,108,6,77,0,1,,0,12.83,1
+Module File,"gen_gell_mann.py",4,85,19,46,0,4,,2,2.42,4
+Module File,"gen_pauli.py",1,80,7,52,0,1,,0,7.43,1
+Module File,"gen_pauli_x.py",1,55,3,38,0,1,,0,12.67,1
+Module File,"gen_pauli_z.py",1,58,6,36,0,1,,0,6.00,1
+Module File,"ghz.py",6,85,15,48,0,6,,1,3.20,6
+Module File,"gisin.py",2,69,14,40,0,2,,1,2.86,2
+Module File,"hadamard.py",2,63,11,33,0,2,,1,3.00,3
+Module File,"has_same_dimension.py",6,64,17,31,0,6,,2,1.82,6
+Module File,"has_symmetric_extension.py",7,140,35,74,0,7,,2,2.11,7
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,7,5,1,,0,,0,,0
+Package,"helper",9,146,74,43,,13,,2,,17
+Package,"helper",4,23,13,6,,4,,1,,4
+Package,"helper",1,16,7,5,,1,,0,,1
+Package,"helper",6,285,184,40,,19,,6,,51
+Package,"helper",0,1,0,1,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",5,76,16,44,,5,,3,,5
+Package,"helper",0,0,0,0,,0,,0,,0
+Package,"helper",0,0,0,0,,0,,0,,0
+Function,"helper.channel_dim._expand_dim",,16,10,3,4,,,1,0.30,
+Function,"helper.channel_dim.channel_dim",,121,62,39,13,,,2,0.63,
+Function,"helper.expr_as_np_array.expr_as_np_array",,17,11,5,4,,,1,0.45,
+Function,"helper.np_array_as_expr.np_array_as_expr",,9,4,4,1,,,0,1.00,
+Function,"helper.npa_hierarchy._gen_words",,30,21,4,13,,,6,0.19,
+Function,"helper.npa_hierarchy._get_nonlocal_game_params",,12,10,0,1,,,0,0.00,
+Function,"helper.npa_hierarchy._is_meas",,6,5,0,2,,,1,0.00,
+Function,"helper.npa_hierarchy._is_meas_on_one_player",,2,2,0,1,,,0,0.00,
+Function,"helper.npa_hierarchy._is_zero",,2,2,0,1,,,0,0.00,
+Function,"helper.npa_hierarchy._parse",,19,14,2,6,,,4,0.14,
+Function,"helper.npa_hierarchy._reduce",,26,19,3,7,,,2,0.16,
+Function,"helper.npa_hierarchy.npa_constraints",,161,107,27,19,,,4,0.25,
+Package,"helper.tests",0,1,0,1,,0,,0,,0
+Package,"helper.tests",1,114,66,17,,3,,1,,15
+Package,"helper.tests",1,26,13,4,,1,,0,,3
+Package,"helper.tests",1,14,7,2,,1,,0,,1
+Package,"helper.tests",4,105,67,13,,12,,4,,17
+Package,"helper.tests",1,27,13,9,,1,,0,,1
+Function,"helper.tests.test_channel_dim.test_channel_dim_choi",,4,3,1,1,,,0,0.33,
+Function,"helper.tests.test_channel_dim.test_channel_dim_choi_non_square",,6,5,1,1,,,0,0.20,
+Function,"helper.tests.test_channel_dim.test_channel_dim_choi_non_square_and_allow_rect_disabled",,4,3,1,1,,,1,0.33,
+Function,"helper.tests.test_channel_dim.test_channel_dim_choi_with_wrong_dim_input",,4,3,1,1,,,1,0.33,
+Function,"helper.tests.test_channel_dim.test_channel_dim_cpt_kraus",,10,8,1,3,,,1,0.13,
+Function,"helper.tests.test_channel_dim.test_channel_dim_kraus",,13,7,4,1,,,0,0.57,
+Function,"helper.tests.test_channel_dim.test_channel_dim_non_square",,8,7,1,1,,,0,0.14,
+Function,"helper.tests.test_channel_dim.test_channel_dim_non_square_and_allow_rect_disabled",,6,5,1,1,,,1,0.20,
+Function,"helper.tests.test_channel_dim.test_channel_dim_with_compute_env_dim_disabled",,4,3,1,1,,,0,0.33,
+Function,"helper.tests.test_channel_dim.test_channel_dim_with_invalid_dim_input",,4,3,1,1,,,1,0.33,
+Function,"helper.tests.test_channel_dim.test_channel_dim_with_kraus_op_of_different_shapes",,6,5,1,1,,,1,0.20,
+Function,"helper.tests.test_channel_dim.test_channel_dim_with_vector_dim_input",,5,4,1,1,,,0,0.25,
+Function,"helper.tests.test_channel_dim.test_channel_dim_with_wrong_dim_input",,5,4,1,1,,,1,0.25,
+Function,"helper.tests.test_expr_as_np_array.test_expr_as_np_array",,6,4,1,1,,,0,0.25,
+Function,"helper.tests.test_expr_as_np_array.test_expr_as_np_array_scalar",,4,3,1,1,,,0,0.33,
+Function,"helper.tests.test_expr_as_np_array.test_expr_as_np_array_vector",,4,3,1,1,,,0,0.33,
+Function,"helper.tests.test_np_array_as_expr.test_np_array_as_expr",,6,4,1,1,,,0,0.25,
+Function,"helper.tests.test_npa_hierarchy.cglmp_inequality",,38,28,1,12,,,4,0.04,
+Function,"helper.tests.test_npa_hierarchy.test_cglmp_dimension",,15,11,3,3,,,2,0.27,
+Function,"helper.tests.test_npa_hierarchy.test_cglmp_inequality",,12,8,3,1,,,0,0.38,
+Function,"helper.tests.test_npa_hierarchy.test_gen_words_intermediate_hierarchy",,21,13,5,1,,,0,0.38,
+Function,"helper.tests.test_update_odometer.test_update_odometer",,3,2,1,1,,,0,0.50,
+Function,"helper.update_odometer.update_odometer",,71,15,43,5,,,3,2.87,
+Module File,"helstrom_holevo.py",2,65,6,43,0,2,,1,7.17,2
+Module File,"hilbert_schmidt.py",2,46,6,26,0,2,,1,4.33,2
+Module File,"hilbert_schmidt_inner_product.py",1,43,3,25,0,1,,0,8.33,1
+Module File,"horodecki.py",5,161,42,96,0,5,,1,2.29,5
+Module File,"in_separable_ball.py",3,84,10,53,0,3,,1,5.30,3
+Module File,"is_anti_hermitian.py",1,67,4,43,0,1,,0,10.75,1
+Module File,"is_antidistinguishable.py",1,68,6,40,0,1,,0,6.67,1
+Module File,"is_block_positive.py",7,108,32,56,0,7,,1,1.75,7
+Module File,"is_circulant.py",4,54,11,29,0,4,,2,2.64,4
+Module File,"is_commuting.py",1,79,3,54,0,1,,0,18.00,1
+Module File,"is_completely_positive.py",2,94,12,57,0,2,,1,4.75,2
+Module File,"is_density.py",1,72,4,49,0,1,,0,12.25,1
+Module File,"is_diagonal.py",2,78,8,48,0,2,,1,6.00,2
+Module File,"is_diagonally_dominant.py",3,68,9,40,0,3,,1,4.44,3
+Module File,"is_distinguishable.py",1,51,5,31,0,1,,0,6.20,1
+Module File,"is_ensemble.py",3,65,9,36,0,3,,2,4.00,3
+Module File,"is_extremal.py",8,94,27,45,0,8,,2,1.67,8
+Module File,"is_herm_preserving.py",3,82,13,48,0,3,,1,3.69,3
+Module File,"is_hermitian.py",2,68,6,42,0,2,,1,7.00,2
+Module File,"is_idempotent.py",2,63,6,40,0,2,,1,6.67,2
+Module File,"is_identity.py",2,77,7,51,0,2,,1,7.29,2
+Module File,"is_linearly_independent.py",1,46,3,32,0,1,,0,10.67,1
+Module File,"is_mixed.py",1,44,4,26,0,1,,0,6.50,1
+Module File,"is_mutually_orthogonal.py",2,75,9,45,0,2,,1,5.00,2
+Module File,"is_mutually_unbiased_basis.py",7,104,17,64,0,7,,5,3.76,7
+Module File,"is_nonnegative.py",5,54,12,29,0,5,,2,2.42,5
+Module File,"is_normal.py",2,77,6,50,0,2,,1,8.33,2
+Module File,"is_npt.py",1,44,4,27,0,1,,0,6.75,1
+Module File,"is_orthonormal.py",1,43,5,28,0,1,,0,5.60,1
+Module File,"is_permutation.py",4,67,8,40,0,4,,2,5.00,4
+Module File,"is_positive.py",2,80,11,47,0,2,,1,4.27,2
+Module File,"is_positive.py",1,37,3,22,0,1,,0,7.33,1
+Module File,"is_positive_definite.py",3,69,10,42,0,3,,2,4.20,3
+Module File,"is_positive_semidefinite.py",2,61,7,37,0,2,,1,5.29,2
+Module File,"is_povm.py",4,108,12,72,0,4,,2,6.00,4
+Module File,"is_ppt.py",3,92,15,56,0,3,,1,3.73,3
+Module File,"is_product.py",5,139,53,54,0,11,,3,1.02,16
+Module File,"is_projection.py",2,69,6,43,0,2,,1,7.17,2
+Module File,"is_pseudo_hermitian.py",4,86,11,50,0,4,,1,4.55,4
+Module File,"is_pseudo_unitary.py",4,88,12,50,0,4,,1,4.17,4
+Module File,"is_pure.py",4,79,10,50,0,4,,3,5.00,4
+Module File,"is_quantum_channel.py",2,80,11,49,0,2,,1,4.45,2
+Module File,"is_separable.py",33,313,165,101,0,33,,4,0.61,33
+Module File,"is_square.py",2,60,5,38,0,2,,1,7.60,2
+Module File,"is_stochastic.py",7,87,17,52,0,7,,3,3.06,7
+Module File,"is_symmetric.py",2,71,6,45,0,2,,1,7.50,2
+Module File,"is_totally_positive.py",10,80,22,38,0,10,,5,1.73,10
+Module File,"is_trace_preserving.py",3,106,21,58,0,3,,1,2.76,3
+Module File,"is_unextendible_product_basis.py",9,117,34,59,0,9,,4,1.74,9
+Module File,"is_unital.py",1,69,13,38,0,1,,0,2.92,1
+Module File,"is_unitary.py",6,91,17,52,0,6,,2,3.06,6
+Module File,"is_unitary.py",2,87,9,53,0,2,,1,5.89,2
+Module File,"isotropic.py",1,66,5,46,0,1,,0,9.20,1
+Module File,"kp_norm.py",2,46,7,26,0,2,,1,3.71,2
+Module File,"kraus_to_choi.py",1,72,14,40,0,1,,0,2.86,1
+Module File,"l1_norm_coherence.py",1,53,5,32,0,1,,0,6.40,1
+Module File,"log_negativity.py",6,79,28,31,0,6,,2,1.11,6
+Module File,"majorizes.py",9,92,28,42,0,9,,2,1.50,9
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,13,11,1,,0,,0,,0
+Package,"matrices",1,40,3,25,,1,,0,,1
+Package,"matrices",1,59,7,38,,1,,0,,1
+Package,"matrices",1,60,6,40,,1,,0,,1
+Package,"matrices",11,124,27,79,,11,,1,,11
+Package,"matrices",4,85,19,46,,4,,2,,4
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",1,80,7,52,,1,,0,,1
+Package,"matrices",1,55,3,38,,1,,0,,1
+Package,"matrices",1,58,6,36,,1,,0,,1
+Package,"matrices",2,63,11,33,,2,,1,,3
+Package,"matrices",7,117,21,67,,7,,2,,7
+Package,"matrices",2,47,5,29,,2,,0,,2
+Package,"matrices",0,1,0,1,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Package,"matrices",0,0,0,0,,0,,0,,0
+Function,"matrices.cnot.cnot",,35,2,24,1,,,0,12.00,
+Function,"matrices.cyclic_permutation_matrix.cyclic_permutation_matrix",,54,6,37,1,,,0,6.17,
+Function,"matrices.fourier.fourier",,55,5,39,1,,,0,7.80,
+Function,"matrices.gell_mann.gell_mann",,118,25,78,11,,,1,3.12,
+Function,"matrices.gen_gell_mann.gen_gell_mann",,80,18,45,4,,,2,2.50,
+Function,"matrices.gen_pauli.gen_pauli",,73,5,51,1,,,0,10.20,
+Function,"matrices.gen_pauli_x.gen_pauli_x",,50,2,37,1,,,0,18.50,
+Function,"matrices.gen_pauli_z.gen_pauli_z",,51,4,35,1,,,0,8.75,
+Function,"matrices.hadamard._hamming_distance",,13,6,5,2,,,1,0.83,
+Function,"matrices.hadamard.hadamard",,43,4,27,1,,,0,6.75,
+Function,"matrices.pauli.pauli",,109,18,66,7,,,2,3.67,
+Function,"matrices.standard_basis.standard_basis",,42,4,28,2,,,0,7.00,
+Package,"matrices.tests",0,1,0,1,,0,,0,,0
+Package,"matrices.tests",1,13,7,2,,1,,0,,1
+Package,"matrices.tests",2,35,19,7,,2,,1,,5
+Package,"matrices.tests",1,15,7,2,,1,,0,,1
+Package,"matrices.tests",1,103,54,12,,1,,1,,11
+Package,"matrices.tests",1,91,52,10,,1,,0,,9
+Package,"matrices.tests",1,47,26,7,,1,,0,,3
+Package,"matrices.tests",1,67,58,3,,1,,0,,2
+Package,"matrices.tests",1,49,40,3,,1,,0,,2
+Package,"matrices.tests",1,59,41,6,,1,,0,,5
+Package,"matrices.tests",1,99,54,12,,1,,0,,11
+Package,"matrices.tests",1,23,12,3,,1,,0,,2
+Function,"matrices.tests.test_cnot.test_cnot",,6,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_cyclic_permutation_matrix.test_cyclic_permutation_matrix_checks",,12,8,3,2,,,1,0.38,
+Function,"matrices.tests.test_cyclic_permutation_matrix.test_cyclic_permutation_matrix_fixed",,5,4,1,1,,,0,0.25,
+Function,"matrices.tests.test_cyclic_permutation_matrix.test_cyclic_permutation_matrix_successive",,7,5,2,2,,,1,0.40,
+Function,"matrices.tests.test_fourier.test_fourier_dim_2",,8,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_0",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_1",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_2",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_3",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_4",,8,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_5",,8,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_6",,8,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_7",,8,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_idx_8",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_invalid_idx",,4,3,1,1,,,1,0.33,
+Function,"matrices.tests.test_gell_mann.test_gell_mann_sparse",,4,3,1,1,,,0,0.33,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_2",,6,4,1,1,,,0,0.25,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_dim_3_1",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_dim_3_2",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_dim_3_3",,13,11,1,1,,,0,0.09,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_dim_4_1",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_identity",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_pauli_x",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_pauli_y",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gen_gell_mann.test_gell_mann_pauli_z",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_gen_pauli.test_gen_pauli_0_1_2",,12,8,2,1,,,0,0.25,
+Function,"matrices.tests.test_gen_pauli.test_gen_pauli_1_0_2",,12,8,2,1,,,0,0.25,
+Function,"matrices.tests.test_gen_pauli.test_gen_pauli_1_1_2",,12,8,2,1,,,0,0.25,
+Function,"matrices.tests.test_gen_pauli_x.test_shape",,3,2,1,1,,,0,0.50,
+Function,"matrices.tests.test_gen_pauli_x.test_values",,3,2,1,1,,,0,0.50,
+Function,"matrices.tests.test_gen_pauli_z.test_shape",,3,2,1,1,,,0,0.50,
+Function,"matrices.tests.test_gen_pauli_z.test_values",,3,2,1,1,,,0,0.50,
+Function,"matrices.tests.test_hadamard.test_hadamard_0",,6,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_hadamard.test_hadamard_1",,6,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_hadamard.test_hadamard_2",,6,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_hadamard.test_hadamard_3",,21,20,1,1,,,0,0.05,
+Function,"matrices.tests.test_hadamard.test_hadamard_4",,5,4,1,1,,,0,0.25,
+Function,"matrices.tests.test_pauli.test_pauli_1",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_2",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_3",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_i",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_int_list",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_int_sparse",,4,3,1,1,,,0,0.33,
+Function,"matrices.tests.test_pauli.test_pauli_str_list",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_str_sparse",,4,3,1,1,,,0,0.33,
+Function,"matrices.tests.test_pauli.test_pauli_x",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_y",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_pauli.test_pauli_z",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_standard_basis.test_standard_basis_2_d",,7,5,1,1,,,0,0.20,
+Function,"matrices.tests.test_standard_basis.test_standard_basis_2_d_flatten",,7,5,1,1,,,0,0.20,
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,12,10,1,,0,,0,,0
+Package,"matrix_ops",6,37,13,16,,6,,2,,6
+Package,"matrix_ops",3,36,10,17,,3,,2,,3
+Package,"matrix_ops",8,163,36,90,,12,,3,,15
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",4,78,15,43,,4,,2,,4
+Package,"matrix_ops",0,1,0,1,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",5,49,15,23,,5,,2,,5
+Package,"matrix_ops",2,91,8,56,,2,,1,,2
+Package,"matrix_ops",1,89,3,59,,1,,0,,1
+Package,"matrix_ops",3,56,13,30,,3,,1,,3
+Package,"matrix_ops",2,52,6,33,,2,,1,,2
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Package,"matrix_ops",0,0,0,0,,0,,0,,0
+Function,"matrix_ops.calculate_vector_matrix_dimension.calculate_vector_matrix_dimension",,32,12,15,6,,,2,1.25,
+Function,"matrix_ops.perturb_vectors.perturb_vectors",,28,9,14,3,,,2,1.56,
+Function,"matrix_ops.tensor.tensor",,158,35,89,12,,,3,2.54,
+Function,"matrix_ops.tensor.tensor.fast_exp",,9,8,2,3,,,1,0.25,
+Function,"matrix_ops.tensor_comb.tensor_comb",,69,12,42,4,,,2,3.50,
+Package,"matrix_ops.tests",0,1,0,1,,0,,0,,0
+Package,"matrix_ops.tests",1,63,33,10,,1,,1,,9
+Package,"matrix_ops.tests",2,67,48,8,,2,,1,,7
+Package,"matrix_ops.tests",2,80,52,21,,4,,1,,6
+Package,"matrix_ops.tests",1,44,28,7,,2,,1,,4
+Package,"matrix_ops.tests",2,33,21,8,,2,,2,,2
+Package,"matrix_ops.tests",1,20,12,4,,1,,0,,1
+Package,"matrix_ops.tests",1,18,11,3,,1,,0,,1
+Package,"matrix_ops.tests",1,46,30,6,,1,,1,,3
+Package,"matrix_ops.tests",1,34,22,5,,1,,1,,3
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_1d_vector_dimension",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_2d_column_vector_dimension",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_2d_row_vector_dimension",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_higher_dimensional_array_error",,5,4,1,1,,,1,0.25,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_invalid_input_error",,5,4,1,1,,,1,0.25,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_non_square_matrix_error",,5,4,1,1,,,1,0.25,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_numpy_array_with_non_numeric_types",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_single_element_array_dimension",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_calculate_vector_matrix_dimension.test_square_matrix_dimension",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_perturb_vector.test_normalization",,6,5,1,2,,,1,0.20,
+Function,"matrix_ops.tests.test_perturb_vector.test_output_size",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_perturb_vector.test_perturbation_effect",,5,4,1,2,,,1,0.25,
+Function,"matrix_ops.tests.test_perturb_vector.test_zero_perturbation",,5,4,1,2,,,1,0.25,
+Function,"matrix_ops.tests.test_tensor.test_tensor_empty_args",,4,3,1,1,,,1,0.33,
+Function,"matrix_ops.tests.test_tensor.test_tensor_multiple_input",,11,10,1,4,,,1,0.10,
+Function,"matrix_ops.tests.test_tensor_comb.test_tensor_comb",,5,4,1,2,,,1,0.25,
+Function,"matrix_ops.tests.test_tensor_comb.test_tensor_comb_empty_states",,4,3,1,1,,,1,0.33,
+Function,"matrix_ops.tests.test_to_density_matrix.test_to_density_matrix",,8,7,1,2,,,2,0.14,
+Function,"matrix_ops.tests.test_unvec.test_unvec",,3,2,1,1,,,0,0.50,
+Function,"matrix_ops.tests.test_vec.test_vec",,3,2,1,1,,,0,0.50,
+Function,"matrix_ops.tests.test_vectors_from_gram_matrix.test_vectors_from_gram_matrix",,4,3,1,1,,,0,0.33,
+Function,"matrix_ops.tests.test_vectors_from_gram_matrix.test_vectors_from_gram_matrix_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"matrix_ops.tests.test_vectors_from_gram_matrix.test_vectors_from_gram_matrix_not_psd",,9,6,1,1,,,0,0.17,
+Function,"matrix_ops.tests.test_vectors_to_gram_matrix.test_vectors_to_gram_matrix",,3,2,1,1,,,0,0.50,
+Function,"matrix_ops.tests.test_vectors_to_gram_matrix.test_vectors_to_gram_matrix_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"matrix_ops.to_density_matrix.to_density_matrix",,44,14,22,5,,,2,1.57,
+Function,"matrix_ops.unvec.unvec",,86,7,55,2,,,1,7.86,
+Function,"matrix_ops.vec.vec",,84,2,58,1,,,0,29.00,
+Function,"matrix_ops.vectors_from_gram_matrix.vectors_from_gram_matrix",,50,11,29,3,,,1,2.64,
+Function,"matrix_ops.vectors_to_gram_matrix.vectors_to_gram_matrix",,47,5,32,2,,,1,6.40,
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,35,33,1,,0,,0,,0
+Package,"matrix_props",6,64,17,31,,6,,2,,6
+Package,"matrix_props",1,67,4,43,,1,,0,,1
+Package,"matrix_props",7,108,32,56,,7,,1,,7
+Package,"matrix_props",4,54,11,29,,4,,2,,4
+Package,"matrix_props",1,79,3,54,,1,,0,,1
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",1,72,4,49,,1,,0,,1
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,78,8,48,,2,,1,,2
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",3,68,9,40,,3,,1,,3
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,68,6,42,,2,,1,,2
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,63,6,40,,2,,1,,2
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,77,7,51,,2,,1,,2
+Package,"matrix_props",1,46,3,32,,1,,0,,1
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",5,54,12,29,,5,,2,,5
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,77,6,50,,2,,1,,2
+Package,"matrix_props",1,43,5,28,,1,,0,,1
+Package,"matrix_props",4,67,8,40,,4,,2,,4
+Package,"matrix_props",1,37,3,22,,1,,0,,1
+Package,"matrix_props",3,69,10,42,,3,,2,,3
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,61,7,37,,2,,1,,2
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,69,6,43,,2,,1,,2
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",4,86,11,50,,4,,1,,4
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",4,88,12,50,,4,,1,,4
+Package,"matrix_props",2,60,5,38,,2,,1,,2
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",7,87,17,52,,7,,3,,7
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,71,6,45,,2,,1,,2
+Package,"matrix_props",10,80,22,38,,10,,5,,10
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",2,87,9,53,,2,,1,,2
+Package,"matrix_props",2,46,7,26,,2,,1,,2
+Package,"matrix_props",9,92,28,42,,9,,2,,9
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",4,93,27,42,,5,,2,,8
+Package,"matrix_props",13,387,230,83,,28,,4,,39
+Package,"matrix_props",6,61,14,33,,6,,3,,6
+Package,"matrix_props",0,1,0,1,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",1,51,3,32,,1,,0,,1
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Package,"matrix_props",0,0,0,0,,0,,0,,0
+Function,"matrix_props.has_same_dimension.has_same_dimension",,59,16,30,6,,,2,1.88,
+Function,"matrix_props.is_anti_hermitian.is_anti_hermitian",,60,2,42,1,,,0,21.00,
+Function,"matrix_props.is_block_positive.is_block_positive",,99,28,55,7,,,1,1.96,
+Function,"matrix_props.is_circulant.is_circulant",,49,10,28,4,,,2,2.80,
+Function,"matrix_props.is_commuting.is_commuting",,74,2,53,1,,,0,26.50,
+Function,"matrix_props.is_density.is_density",,65,2,48,1,,,0,24.00,
+Function,"matrix_props.is_diagonal.is_diagonal",,71,6,47,2,,,1,7.83,
+Function,"matrix_props.is_diagonally_dominant.is_diagonally_dominant",,61,7,39,3,,,1,5.57,
+Function,"matrix_props.is_hermitian.is_hermitian",,61,4,41,2,,,1,10.25,
+Function,"matrix_props.is_idempotent.is_idempotent",,56,4,39,2,,,1,9.75,
+Function,"matrix_props.is_identity.is_identity",,70,5,50,2,,,1,10.00,
+Function,"matrix_props.is_linearly_independent.is_linearly_independent",,41,2,31,1,,,0,15.50,
+Function,"matrix_props.is_nonnegative.is_nonnegative",,44,10,26,5,,,2,2.60,
+Function,"matrix_props.is_normal.is_normal",,70,4,49,2,,,1,12.25,
+Function,"matrix_props.is_orthonormal.is_orthonormal",,36,3,27,1,,,0,9.00,
+Function,"matrix_props.is_permutation.is_permutation",,62,7,39,4,,,2,5.57,
+Function,"matrix_props.is_positive.is_positive",,32,2,21,1,,,0,10.50,
+Function,"matrix_props.is_positive_definite.is_positive_definite",,64,9,41,3,,,2,4.56,
+Function,"matrix_props.is_positive_semidefinite.is_positive_semidefinite",,54,5,36,2,,,1,7.20,
+Function,"matrix_props.is_projection.is_projection",,62,4,42,2,,,1,10.50,
+Function,"matrix_props.is_pseudo_hermitian.is_pseudo_hermitian",,79,9,49,4,,,1,5.44,
+Function,"matrix_props.is_pseudo_unitary.is_pseudo_unitary",,81,10,49,4,,,1,4.90,
+Function,"matrix_props.is_square.is_square",,55,4,37,2,,,1,9.25,
+Function,"matrix_props.is_stochastic.is_stochastic",,78,15,49,7,,,3,3.27,
+Function,"matrix_props.is_symmetric.is_symmetric",,64,4,44,2,,,1,11.00,
+Function,"matrix_props.is_totally_positive.is_totally_positive",,73,20,37,10,,,5,1.85,
+Function,"matrix_props.is_unitary.is_unitary",,80,7,52,2,,,1,7.43,
+Function,"matrix_props.kp_norm.kp_norm",,41,6,25,2,,,1,4.17,
+Function,"matrix_props.majorizes.majorizes",,87,27,41,9,,,2,1.52,
+Function,"matrix_props.positive_semidefinite_rank._check_psd_rank",,31,15,10,3,,,2,0.67,
+Function,"matrix_props.positive_semidefinite_rank.positive_semidefinite_rank",,52,9,31,5,,,2,3.44,
+Function,"matrix_props.sk_norm.__lower_bound_sk_norm_randomized",,81,62,3,10,,,3,0.05,
+Function,"matrix_props.sk_norm.__target_is_proved",,4,4,0,1,,,0,0.00,
+Function,"matrix_props.sk_norm.sk_operator_norm",,268,149,70,28,,,4,0.47,
+Function,"matrix_props.spark.spark",,54,12,32,6,,,3,2.67,
+Package,"matrix_props.tests",0,1,0,1,,0,,0,,0
+Package,"matrix_props.tests",1,45,14,17,,1,,1,,4
+Package,"matrix_props.tests",1,20,11,5,,1,,0,,2
+Package,"matrix_props.tests",2,91,62,15,,5,,2,,10
+Package,"matrix_props.tests",1,23,11,4,,1,,0,,3
+Package,"matrix_props.tests",1,19,10,3,,1,,0,,2
+Package,"matrix_props.tests",1,18,9,3,,1,,0,,2
+Package,"matrix_props.tests",1,23,11,4,,1,,0,,3
+Package,"matrix_props.tests",1,41,18,10,,1,,0,,4
+Package,"matrix_props.tests",1,20,11,5,,1,,0,,2
+Package,"matrix_props.tests",1,41,20,7,,1,,0,,6
+Package,"matrix_props.tests",1,23,11,4,,1,,0,,3
+Package,"matrix_props.tests",1,18,12,2,,1,,0,,1
+Package,"matrix_props.tests",1,20,11,3,,1,,1,,2
+Package,"matrix_props.tests",1,32,14,7,,1,,0,,4
+Package,"matrix_props.tests",1,27,14,3,,1,,0,,2
+Package,"matrix_props.tests",1,47,23,8,,1,,0,,7
+Package,"matrix_props.tests",1,12,5,2,,1,,0,,1
+Package,"matrix_props.tests",1,53,39,4,,1,,0,,3
+Package,"matrix_props.tests",1,17,8,3,,1,,0,,2
+Package,"matrix_props.tests",1,29,14,5,,1,,0,,4
+Package,"matrix_props.tests",1,65,48,9,,1,,0,,2
+Package,"matrix_props.tests",1,29,20,8,,1,,0,,2
+Package,"matrix_props.tests",1,23,11,4,,1,,1,,3
+Package,"matrix_props.tests",1,29,17,4,,1,,1,,3
+Package,"matrix_props.tests",1,23,11,4,,1,,0,,3
+Package,"matrix_props.tests",1,49,29,14,,1,,1,,2
+Package,"matrix_props.tests",1,36,18,6,,1,,0,,5
+Package,"matrix_props.tests",1,33,19,7,,1,,1,,2
+Package,"matrix_props.tests",1,26,14,4,,1,,0,,3
+Package,"matrix_props.tests",1,43,29,8,,1,,1,,2
+Package,"matrix_props.tests",1,141,87,26,,1,,1,,12
+Package,"matrix_props.tests",1,38,28,6,,1,,1,,3
+Package,"matrix_props.tests",1,22,13,2,,1,,0,,1
+Function,"matrix_props.tests.test_has_same_dimension.test_empty_list",,8,3,4,1,,,1,1.33,
+Function,"matrix_props.tests.test_has_same_dimension.test_mixed_dimensions",,8,3,4,1,,,0,1.33,
+Function,"matrix_props.tests.test_has_same_dimension.test_same_dimension_matrices",,8,3,4,1,,,0,1.33,
+Function,"matrix_props.tests.test_has_same_dimension.test_same_dimension_vectors",,8,3,4,1,,,0,1.33,
+Function,"matrix_props.tests.test_is_anti_hermitian.test_is_anti_hermitian",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_block_positive.test_dim_None",,4,3,1,2,,,1,0.33,
+Function,"matrix_props.tests.test_is_block_positive.test_dim_input",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_block_positive.test_is_block_positive",,17,14,2,5,,,2,0.14,
+Function,"matrix_props.tests.test_is_block_positive.test_is_block_positive_not_block_positive",,7,3,3,1,,,0,1.00,
+Function,"matrix_props.tests.test_is_circulant.test_is_circulant_false",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_circulant.test_is_circulant_non_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_circulant.test_is_circulant_true",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_commuting.test_is_commuting_false",,5,4,1,1,,,0,0.25,
+Function,"matrix_props.tests.test_is_commuting.test_is_commuting_true",,5,4,1,1,,,0,0.25,
+Function,"matrix_props.tests.test_is_density.test_is_density_complex_entries",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_density.test_is_density_real_entries",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_diagonal.test_is_diagonal",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_diagonal.test_is_diagonal_non_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_diagonal.test_is_non_diagonal",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_diagonally_dominant.test_diagonally_dominant",,16,7,6,1,,,0,0.86,
+Function,"matrix_props.tests.test_is_diagonally_dominant.test_is_not_diagonally_dominant",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_diagonally_dominant.test_is_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_diagonally_dominant.test_strict_diagonally_dominant",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_hermitian.test_is_hermitian",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_idempotent.test_is_idempotent_2_by_2",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_idempotent.test_is_idempotent_3_by_3",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_idempotent.test_is_idempotent_identity_2_by_2",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_idempotent.test_is_idempotent_identity_3_by_3",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_idempotent.test_is_idempotent_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_idempotent.test_is_non_idempotent",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_identity.test_is_hermitian",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_identity.test_is_identity_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_identity.test_is_non_identity",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_linearly_independent.test_is_linearly_independent",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_nonnegative.test_identity",,5,4,1,1,,,0,0.25,
+Function,"matrix_props.tests.test_is_nonnegative.test_true",,4,3,1,1,,,1,0.33,
+Function,"matrix_props.tests.test_is_normal.test_is_normal",,7,3,3,1,,,0,1.00,
+Function,"matrix_props.tests.test_is_normal.test_is_normal_identity",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_normal.test_is_normal_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_normal.test_is_not_normal",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_orthonormal.test_is_not_orthonormal",,9,6,1,1,,,0,0.17,
+Function,"matrix_props.tests.test_is_orthonormal.test_is_orthonormal",,9,6,1,1,,,0,0.17,
+Function,"matrix_props.tests.test_is_permutation.test_is_matrix_with_fractional_values_and_unitary_sums",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_permutation.test_is_matrix_with_negative_values_and_unitary_sums",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_permutation.test_is_matrix_with_nonunitary_column_sum",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_permutation.test_is_matrix_with_nonunitary_row_sum",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_permutation.test_is_not_binary_value_matrix",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_permutation.test_is_not_square_matrix",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_permutation.test_is_simple_permutation",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_positive.test_matrices",,5,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_positive_definite.test_is_is_positive_definite",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_positive_definite.test_is_not_positive_definite",,34,31,1,1,,,0,0.03,
+Function,"matrix_props.tests.test_is_positive_definite.test_is_positive_definite_not_hermitian",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_positive_semidefinite.test_is_not_positive_semidefinite",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_positive_semidefinite.test_is_positive_semidefinite",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_projection.test_is_not_pd_non_projection",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_projection.test_is_projection",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_projection.test_is_projection_2",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_projection.test_is_projection_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_pseudo_hermitian.test_is_pseudo_hermitian",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_pseudo_hermitian.test_is_pseudo_hermitian_value_error",,23,18,3,1,,,0,0.17,
+Function,"matrix_props.tests.test_is_pseudo_unitary.test_is_pseudo_unitary",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_pseudo_unitary.test_is_pseudo_unitary_value_error",,5,4,1,1,,,0,0.25,
+Function,"matrix_props.tests.test_is_square.test_is_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_square.test_is_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_square.test_is_square_invalid",,4,3,1,1,,,1,0.33,
+Function,"matrix_props.tests.test_is_stochastic.test_true",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_stochastic.test_true",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_stochastic.test_true",,4,3,1,1,,,1,0.33,
+Function,"matrix_props.tests.test_is_symmetric.test_is_not_symmetric",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_symmetric.test_is_symmetric",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_symmetric.test_is_symmetric_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_totally_positive.test_is_totally_positive",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_is_totally_positive.test_is_totally_positive_invalid",,4,3,1,1,,,1,0.33,
+Function,"matrix_props.tests.test_is_unitary.test_is_not_unitary",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_unitary.test_is_not_unitary_matrix",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_unitary.test_is_unitary_hardcoded",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_unitary.test_is_unitary_not_square",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_is_unitary.test_is_unitary_random",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_kp_norm.test_kp_norm",,4,3,1,1,,,0,0.33,
+Function,"matrix_props.tests.test_kp_norm.test_no_default_kp_values",,4,3,1,1,,,1,0.33,
+Function,"matrix_props.tests.test_majorizes.test_majorizes_max_entangled",,5,4,1,1,,,0,0.25,
+Function,"matrix_props.tests.test_majorizes.test_majorizes_max_entangled_flip",,5,4,1,1,,,0,0.25,
+Function,"matrix_props.tests.test_majorizes.test_majorizes_simple_example",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_positive_semidefinite_rank.test_positive_semidefinite_rank",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_positive_semidefinite_rank.test_positive_semidefinite_rank_raises_error",,4,3,1,1,,,1,0.33,
+Function,"matrix_props.tests.test_sk_norm.test_s1_norm_example",,20,16,2,1,,,0,0.13,
+Function,"matrix_props.tests.test_sk_norm.test_s1_norm_werner",,13,6,6,1,,,0,1.00,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_hermitian_not_psd",,11,8,1,1,,,0,0.13,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_hermitian_psd",,6,5,2,1,,,0,0.40,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_k_larger_than_dim",,10,8,2,1,,,0,0.25,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_non_hermitian_matrix",,8,5,3,1,,,0,0.60,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_non_square_matrix",,5,4,2,1,,,1,0.50,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_of_zero_matrix",,6,5,1,1,,,0,0.20,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_randomized_bound",,6,5,2,1,,,0,0.40,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_rank_1",,11,9,1,1,,,0,0.11,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_target_met",,7,6,2,1,,,0,0.33,
+Function,"matrix_props.tests.test_sk_norm.test_sk_norm_zero_rank_matrix",,6,5,1,1,,,0,0.20,
+Function,"matrix_props.tests.test_spark.test_spark",,3,2,1,1,,,0,0.50,
+Function,"matrix_props.tests.test_spark.test_spark_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"matrix_props.tests.test_spark.test_spark_property_rank",,6,5,1,1,,,0,0.20,
+Function,"matrix_props.tests.test_trace_norm.test_trace_norm",,14,10,1,1,,,0,0.10,
+Function,"matrix_props.trace_norm.trace_norm",,46,2,31,1,,,0,15.50,
+Module File,"matsumoto_fidelity.py",6,109,25,57,0,6,,1,2.28,6
+Module File,"max_entangled.py",3,65,8,39,0,3,,1,4.88,3
+Module File,"max_mixed.py",2,75,6,46,0,2,,1,7.67,2
+Module File,"measure.py",1,76,3,48,0,1,,0,16.00,1
+Package,"measurement_ops",0,3,1,1,,0,,0,,0
+Package,"measurement_ops",1,76,3,48,,1,,0,,1
+Package,"measurement_ops",0,1,0,1,,0,,0,,0
+Package,"measurement_ops",0,0,0,0,,0,,0,,0
+Function,"measurement_ops.measure.measure",,71,2,47,1,,,0,23.50,
+Package,"measurement_ops.tests",0,1,0,1,,0,,0,,0
+Package,"measurement_ops.tests",1,18,11,2,,1,,0,,1
+Function,"measurement_ops.tests.test_measure.test_measure_state",,10,8,1,1,,,0,0.13,
+Package,"measurement_props",0,3,1,1,,0,,0,,0
+Package,"measurement_props",4,108,12,72,,4,,2,,4
+Package,"measurement_props",0,1,0,1,,0,,0,,0
+Package,"measurement_props",0,0,0,0,,0,,0,,0
+Function,"measurement_props.is_povm.is_povm",,101,10,71,4,,,2,7.10,
+Package,"measurement_props.tests",0,1,0,1,,0,,0,,0
+Package,"measurement_props.tests",1,32,17,4,,1,,0,,3
+Function,"measurement_props.tests.test_is_povm.test_is_povm_false",,7,5,1,1,,,0,0.20,
+Function,"measurement_props.tests.test_is_povm.test_is_povm_false_not_sum_identity",,7,5,1,1,,,0,0.20,
+Function,"measurement_props.tests.test_is_povm.test_is_povm_true",,6,4,1,1,,,0,0.25,
+Package,"measurements",0,4,2,1,,0,,0,,0
+Package,"measurements",0,0,0,0,,0,,0,,0
+Package,"measurements",4,80,13,45,,4,,1,,4
+Package,"measurements",4,76,15,41,,4,,1,,4
+Package,"measurements",0,1,0,1,,0,,0,,0
+Package,"measurements",0,0,0,0,,0,,0,,0
+Package,"measurements",0,0,0,0,,0,,0,,0
+Function,"measurements.pretty_bad_measurement.pretty_bad_measurement",,73,11,44,4,,,1,4.00,
+Function,"measurements.pretty_good_measurement.pretty_good_measurement",,68,12,40,4,,,1,3.33,
+Package,"measurements.tests",0,1,0,1,,0,,0,,0
+Package,"measurements.tests",1,74,57,9,,1,,1,,3
+Package,"measurements.tests",1,74,57,9,,1,,1,,3
+Function,"measurements.tests.test_pretty_bad_measurement.test_pbm_invalid_probs",,4,3,1,1,,,1,0.33,
+Function,"measurements.tests.test_pretty_bad_measurement.test_pbm_invalid_states",,4,3,1,1,,,1,0.33,
+Function,"measurements.tests.test_pretty_bad_measurement.test_pretty_bad_measurement",,3,2,1,1,,,0,0.50,
+Function,"measurements.tests.test_pretty_good_measurement.test_pgm_invalid_probs",,4,3,1,1,,,1,0.33,
+Function,"measurements.tests.test_pretty_good_measurement.test_pgm_invalid_states",,4,3,1,1,,,1,0.33,
+Function,"measurements.tests.test_pretty_good_measurement.test_pretty_good_measurement",,3,2,1,1,,,0,0.50,
+Module File,"mutually_unbiased_basis.py",6,86,33,33,0,7,,3,1.00,12
+Module File,"natural_representation.py",2,33,7,18,0,2,,1,2.57,2
+Module File,"negativity.py",6,80,28,32,0,6,,2,1.14,6
+Module File,"nonlocal_game.py",9,623,294,216,0,25,,5,0.73,80
+Package,"nonlocal_games",0,6,4,1,,0,,0,,0
+Package,"nonlocal_games",10,469,262,127,,25,,5,,67
+Package,"nonlocal_games",9,623,294,216,,25,,5,,80
+Package,"nonlocal_games",2,223,54,122,,2,,1,,8
+Package,"nonlocal_games",0,1,0,1,,0,,0,,0
+Package,"nonlocal_games",3,262,66,141,,5,,4,,16
+Class,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame",10,457,256,126,,25,0,5,0.49,67
+Function,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame.__init__",,47,37,7,5,,,4,0.19,
+Function,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame.__optimize_alice",,72,59,7,11,,,5,0.12,
+Function,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame.__optimize_bob",,50,38,7,9,,,4,0.18,
+Function,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame.commuting_measurement_value_upper_bound",,52,27,16,7,,,4,0.59,
+Function,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame.nonsignaling_value",,126,57,45,25,,,4,0.79,
+Function,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame.quantum_value_lower_bound",,43,21,14,5,,,3,0.67,
+Function,"nonlocal_games.extended_nonlocal_game.ExtendedNonlocalGame.unentangled_value",,39,16,15,5,,,4,0.94,
+Class,"nonlocal_games.nonlocal_game.NonlocalGame",9,610,287,215,,25,0,5,0.75,80
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.__init__",,40,28,9,5,,,4,0.32,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.__optimize_alice",,63,45,9,11,,,5,0.20,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.__optimize_bob",,43,32,5,9,,,4,0.16,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.classical_value",,52,38,8,6,,,2,0.21,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.commuting_measurement_value_upper_bound",,46,21,16,7,,,4,0.76,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.from_bcs_game",,48,24,14,9,,,4,0.58,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.nonsignaling_value",,92,58,18,25,,,4,0.31,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.process_iteration",,22,14,3,3,,,1,0.21,
+Function,"nonlocal_games.nonlocal_game.NonlocalGame.quantum_value_lower_bound",,176,25,121,5,,,3,4.84,
+Class,"nonlocal_games.quantum_hedging.QuantumHedging",2,214,50,121,,2,0,1,2.42,8
+Function,"nonlocal_games.quantum_hedging.QuantumHedging.__init__",,26,13,9,2,,,1,0.69,
+Function,"nonlocal_games.quantum_hedging.QuantumHedging.max_prob_outcome_a_dual",,32,11,15,2,,,1,1.36,
+Function,"nonlocal_games.quantum_hedging.QuantumHedging.max_prob_outcome_a_primal",,31,7,19,1,,,0,2.71,
+Function,"nonlocal_games.quantum_hedging.QuantumHedging.min_prob_outcome_a_dual",,33,11,15,2,,,1,1.36,
+Function,"nonlocal_games.quantum_hedging.QuantumHedging.min_prob_outcome_a_primal",,31,7,19,1,,,0,2.71,
+Package,"nonlocal_games.tests",0,1,0,1,,0,,0,,0
+Package,"nonlocal_games.tests",1,188,129,15,,1,,0,,12
+Package,"nonlocal_games.tests",2,253,159,41,,6,,5,,39
+Package,"nonlocal_games.tests",1,102,48,26,,1,,0,,8
+Package,"nonlocal_games.tests",1,197,141,18,,1,,1,,16
+Class,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame",1,178,125,14,,1,1,0,0.11,12
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.bb84_extended_nonlocal_game",,19,14,1,1,,,0,0.07,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.chsh_extended_nonlocal_game",,21,15,1,1,,,0,0.07,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.moe_mub_4_in_3_out_game",,49,38,2,1,,,0,0.05,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_bb84_commuting_value_upper_bound",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_bb84_nonsignaling_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_bb84_nonsignaling_value_rep_2",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_bb84_quantum_value_lower_bound",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_bb84_unentangled_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_bb84_unentangled_value_rep_2",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_chsh_commuting_value_upper_bound",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_chsh_unentangled_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_extended_nonlocal_game.TestExtendedNonlocalGame.test_moe_mub_4_in_3_out_unentangled_value",,8,6,1,1,,,0,0.17,
+Class,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame",2,244,156,40,,6,1,5,0.26,39
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.chsh_bcs_game",,13,10,1,4,,,3,0.10,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.chsh_nonlocal_game",,14,12,1,6,,,5,0.08,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.ffl_nonlocal_game",,14,12,1,6,,,5,0.08,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_bcs_chsh_game_classical_value",,7,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_bcs_chsh_game_classical_value_rep_2",,13,6,5,1,,,0,0.83,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_bcs_chsh_lower_bound",,6,5,1,1,,,0,0.20,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_bcs_game_without_constraint",,3,2,1,1,,,0,0.50,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_chsh_bcs_game_to_nonlocal_game",,19,12,5,1,,,0,0.42,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_chsh_game_classical_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_chsh_game_classical_value_rep_2",,14,6,5,1,,,0,0.83,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_chsh_game_commuting_measurement_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_chsh_game_nonsignaling_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_chsh_game_nonsignaling_value_rep_2",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_chsh_lower_bound",,15,7,6,1,,,0,0.86,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_ffl_game_classical_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_ffl_game_classical_value_rep_2",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_ffl_game_commuting_measurement_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_ffl_game_nonsignaling_value",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_ffl_game_nonsignaling_value_rep_2",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_ffl_game_quantum_value_lower_bound_value_rep_2",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_nonlocal_game.TestNonlocalGame.test_unbalanced_nonlocal_game",,20,14,2,6,,,5,0.14,
+Class,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging",1,92,44,25,,1,1,0,0.57,8
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_max_prob_outcome_a_dual_1_dim",,8,4,3,1,,,0,0.75,
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_max_prob_outcome_a_dual_2_dim",,8,4,3,1,,,0,0.75,
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_max_prob_outcome_a_primal_1_dim",,8,4,3,1,,,0,0.75,
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_max_prob_outcome_a_primal_2_dim",,8,4,3,1,,,0,0.75,
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_min_prob_outcome_a_dual_1_dim",,8,4,3,1,,,0,0.75,
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_min_prob_outcome_a_dual_2_dim",,8,4,3,1,,,0,0.75,
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_min_prob_outcome_a_primal_1_dim",,8,4,3,1,,,0,0.75,
+Function,"nonlocal_games.tests.test_quantum_hedging.TestQuantumHedging.test_min_prob_outcome_a_primal_2_dim",,8,4,3,1,,,0,0.75,
+Class,"nonlocal_games.tests.test_xor_game.TestXORGame",1,188,138,17,,1,1,1,0.12,16
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_classical_value",,9,7,1,1,,,0,0.14,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_classical_value_early_exit",,9,7,1,1,,,0,0.14,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_classical_value_tol_optimal",,9,7,1,1,,,0,0.14,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_nonsignaling_value",,7,5,1,1,,,0,0.20,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_nonsignaling_value_rep_2",,7,5,1,1,,,0,0.20,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_quantum_value",,9,7,1,1,,,0,0.14,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_quantum_value_error_tol",,11,9,1,1,,,0,0.11,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_chsh_game_quantum_value_two_reps",,10,8,1,1,,,0,0.13,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_classical_parallel_rep",,8,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_invalid_prob_mat",,8,6,1,1,,,1,0.17,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_negative_prob_mat",,8,6,1,1,,,1,0.17,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_non_square_prob_mat",,8,6,1,1,,,1,0.17,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_odd_cycle_game_classical_value",,25,23,1,1,,,0,0.04,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_odd_cycle_game_quantum_value",,25,23,1,1,,,0,0.04,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_to_nonlocal_game",,9,6,1,1,,,0,0.17,
+Function,"nonlocal_games.tests.test_xor_game.TestXORGame.test_zero_prob_mat",,8,6,1,1,,,1,0.17,
+Class,"nonlocal_games.xor_game.XORGame",3,254,63,140,,5,0,4,2.22,16
+Function,"nonlocal_games.xor_game.XORGame.__init__",,41,25,13,5,,,1,0.52,
+Function,"nonlocal_games.xor_game.XORGame.classical_value",,6,2,3,1,,,0,1.50,
+Function,"nonlocal_games.xor_game.XORGame.nonsignaling_value",,8,2,4,1,,,0,2.00,
+Function,"nonlocal_games.xor_game.XORGame.quantum_value",,65,23,31,4,,,2,1.35,
+Function,"nonlocal_games.xor_game.XORGame.to_nonlocal_game",,16,10,3,5,,,4,0.30,
+Module File,"np_array_as_expr.py",1,16,7,5,0,1,,0,0.71,1
+Module File,"npa_hierarchy.py",6,285,184,40,1,19,,6,0.22,51
+Module File,"optimal_clone.py",3,186,58,90,0,6,,3,1.55,10
+Module File,"partial_channel.py",12,195,95,68,0,12,,3,0.72,12
+Module File,"partial_trace.py",15,215,66,112,0,15,,3,1.70,15
+Module File,"partial_transpose.py",12,203,75,90,0,12,,2,1.20,12
+Module File,"pauli.py",7,117,21,67,0,7,,2,3.19,7
+Module File,"pauli_channel.py",10,104,34,45,0,10,,2,1.32,10
+Module File,"perfect_matchings.py",8,75,25,30,0,8,,2,1.20,8
+Module File,"perm_sign.py",1,51,4,30,0,1,,0,7.50,1
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,11,9,1,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",5,97,18,56,,5,,1,,5
+Package,"perms",8,75,25,30,,8,,2,,8
+Package,"perms",1,51,4,30,,1,,0,,1
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",4,63,15,33,,4,,1,,4
+Package,"perms",16,225,69,117,,16,,2,,16
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",9,153,45,75,,9,,2,,9
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",3,64,8,40,,3,,1,,3
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",6,100,22,49,,6,,1,,6
+Package,"perms",0,1,0,1,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",3,62,20,23,,4,,3,,5
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Package,"perms",0,0,0,0,,0,,0,,0
+Function,"perms.antisymmetric_projection.antisymmetric_projection",,88,15,55,5,,,1,3.67,
+Function,"perms.perfect_matchings.perfect_matchings",,69,24,29,8,,,2,1.21,
+Function,"perms.perm_sign.perm_sign",,45,2,29,1,,,0,14.50,
+Function,"perms.permutation_operator.permutation_operator",,55,12,32,4,,,1,2.67,
+Function,"perms.permute_systems.permute_systems",,214,64,116,16,,,2,1.81,
+Function,"perms.swap.swap",,146,43,74,9,,,2,1.72,
+Function,"perms.swap_operator.swap_operator",,56,5,39,3,,,1,7.80,
+Function,"perms.symmetric_projection.symmetric_projection",,89,17,48,6,,,1,2.82,
+Package,"perms.tests",0,1,0,1,,0,,0,,0
+Package,"perms.tests",1,36,22,8,,1,,0,,2
+Package,"perms.tests",1,56,40,5,,1,,0,,4
+Package,"perms.tests",1,17,8,3,,1,,0,,2
+Package,"perms.tests",1,91,62,8,,1,,0,,7
+Package,"perms.tests",1,168,129,9,,1,,1,,8
+Package,"perms.tests",1,521,486,29,,1,,1,,2
+Package,"perms.tests",1,25,12,3,,1,,0,,2
+Package,"perms.tests",1,135,89,17,,2,,1,,11
+Package,"perms.tests",1,11,5,2,,1,,0,,1
+Function,"perms.tests.test_antisymmetric_projection.test_antisymmetric_projection",,4,3,1,1,,,0,0.33,
+Function,"perms.tests.test_perfect_matchings.test_perfect_matchings_num_4",,6,5,1,1,,,0,0.20,
+Function,"perms.tests.test_perfect_matchings.test_perfect_matchings_num_4_list",,6,5,1,1,,,0,0.20,
+Function,"perms.tests.test_perfect_matchings.test_perfect_matchings_num_6",,25,23,1,1,,,0,0.04,
+Function,"perms.tests.test_perfect_matchings.test_perfect_matchings_odd",,6,5,1,1,,,0,0.20,
+Function,"perms.tests.test_perm_sign.test_perm_sign_small_example_even",,4,3,1,1,,,0,0.33,
+Function,"perms.tests.test_perm_sign.test_perm_sign_small_example_odd",,4,3,1,1,,,0,0.33,
+Function,"perms.tests.test_permutation_operator.test_permutation_operator_dim_2_2_perm_0_1",,6,5,1,1,,,0,0.20,
+Function,"perms.tests.test_permutation_operator.test_permutation_operator_dim_2_2_perm_1_0",,6,5,1,1,,,0,0.20,
+Function,"perms.tests.test_permutation_operator.test_permutation_operator_dim_2_perm_0_2_1",,19,18,1,1,,,0,0.06,
+Function,"perms.tests.test_permutation_operator.test_permutation_operator_dim_3_perm_0_1",,6,5,1,1,,,0,0.20,
+Function,"perms.tests.test_permutation_operator.test_permutation_operator_sparse_option",,19,17,1,1,,,0,0.06,
+Function,"perms.tests.test_permutation_operator.test_permutation_operator_standard_swap",,8,5,1,1,,,0,0.20,
+Function,"perms.tests.test_permutation_operator.test_permutation_operator_standard_swap_list_dim",,8,5,1,1,,,0,0.20,
+Function,"perms.tests.test_permute_systems.permute_systems_test_2_3_1",,32,28,1,1,,,0,0.04,
+Function,"perms.tests.test_permute_systems.test_permute_systems_16_by_16",,71,69,1,1,,,0,0.01,
+Function,"perms.tests.test_permute_systems.test_permute_systems_invalid_dim_mismatch_perm",,5,4,1,1,,,1,0.25,
+Function,"perms.tests.test_permute_systems.test_permute_systems_invalid_empty_input",,5,4,1,1,,,1,0.25,
+Function,"perms.tests.test_permute_systems.test_permute_systems_invalid_perm_vector",,5,4,1,1,,,1,0.25,
+Function,"perms.tests.test_permute_systems.test_permute_systems_m2_m2",,10,6,1,1,,,0,0.17,
+Function,"perms.tests.test_permute_systems.test_permute_systems_m2_m2_np_array",,10,6,1,1,,,0,0.17,
+Function,"perms.tests.test_permute_systems.test_permute_systems_vec",,9,6,1,1,,,0,0.17,
+Function,"perms.tests.test_swap.test_invalid_swap",,4,3,1,1,,,1,0.33,
+Function,"perms.tests.test_swap.test_swap",,4,3,1,1,,,0,0.33,
+Function,"perms.tests.test_swap_operator.test_swap_operator_num",,8,5,1,1,,,0,0.20,
+Function,"perms.tests.test_swap_operator.test_swap_operator_vec_dims",,8,5,1,1,,,0,0.20,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_dim_2_partial_true",,7,5,1,1,,,0,0.20,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_dim_2_pval_1",,7,5,1,1,,,0,0.20,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_dim_2_pval_3",,18,16,1,1,,,0,0.06,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_dim_2_pval_default_2",,7,5,1,1,,,0,0.20,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_dim_3_pval_2",,19,17,1,1,,,0,0.06,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_dim_4_pval_2",,26,24,1,1,,,0,0.04,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_dim_4_pval_2_partial_true",,7,5,1,1,,,0,0.20,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_invalid_dim",,6,5,1,2,,,1,0.20,
+Function,"perms.tests.test_symmetric_projection.test_symmetric_projection_invalid_pval",,6,5,1,2,,,1,0.20,
+Function,"perms.tests.test_unique_perms.test_unique_perms_len",,4,3,1,1,,,0,0.33,
+Class,"perms.unique_perms.UniqueElement",0,5,3,1,,0,0,0,0.33,0
+Function,"perms.unique_perms.perm_unique_helper",,17,10,6,4,,,3,0.60,
+Function,"perms.unique_perms.unique_perms",,30,5,15,1,,,0,3.00,
+Module File,"permutation_operator.py",4,63,15,33,0,4,,1,2.20,4
+Module File,"permute_systems.py",16,225,69,117,0,16,,2,1.70,16
+Module File,"perturb_vectors.py",3,36,10,17,0,3,,2,1.70,3
+Module File,"phase_damping.py",4,58,15,28,0,4,,1,1.87,4
+Module File,"positive_semidefinite_rank.py",4,93,27,42,0,5,,2,1.56,8
+Module File,"ppt_distinguishability.py",4,207,89,81,0,6,,4,0.91,12
+Module File,"pretty_bad_measurement.py",4,80,13,45,0,4,,1,3.46,4
+Module File,"pretty_good_measurement.py",4,76,15,41,0,4,,1,2.73,4
+Module File,"purity.py",2,62,6,38,0,2,,1,6.33,2
+Module File,"pusey_barrett_rudolph.py",3,66,17,30,0,3,,2,1.76,3
+Module File,"quantum_hedging.py",2,223,54,122,0,2,,1,2.26,8
+Package,"rand",0,11,9,1,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",1,75,6,51,,1,,0,,1
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",4,121,19,68,,4,,1,,4
+Package,"rand",1,47,4,27,,1,,0,,1
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",1,43,5,26,,1,,0,,1
+Package,"rand",3,103,17,65,,3,,2,,3
+Package,"rand",2,84,14,48,,2,,1,,2
+Package,"rand",5,97,31,42,,5,,2,,5
+Package,"rand",1,68,6,48,,1,,0,,1
+Package,"rand",4,119,18,65,,4,,1,,4
+Package,"rand",0,1,0,1,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Package,"rand",0,0,0,0,,0,,0,,0
+Function,"rand.random_circulant_gram_matrix.random_circulant_gram_matrix",,70,5,50,1,,,0,10.00,
+Function,"rand.random_density_matrix.random_density_matrix",,114,17,67,4,,,1,3.94,
+Function,"rand.random_ginibre.random_ginibre",,42,3,26,1,,,0,8.67,
+Function,"rand.random_orthonormal_basis.random_orthonormal_basis",,37,3,25,1,,,0,8.33,
+Function,"rand.random_povm.random_povm",,98,16,64,3,,,2,4.00,
+Function,"rand.random_psd_operator.random_psd_operator",,79,13,47,2,,,1,3.62,
+Function,"rand.random_state_vector.random_state_vector",,89,28,41,5,,,2,1.46,
+Function,"rand.random_states.random_states",,62,5,47,1,,,0,9.40,
+Function,"rand.random_unitary.random_unitary",,114,17,64,4,,,1,3.76,
+Package,"rand.tests",0,1,0,1,,0,,0,,0
+Package,"rand.tests",1,67,45,13,,1,,0,,2
+Package,"rand.tests",2,112,84,16,,2,,1,,5
+Package,"rand.tests",1,58,44,7,,1,,1,,3
+Package,"rand.tests",1,46,35,3,,1,,0,,2
+Package,"rand.tests",1,64,53,4,,2,,1,,4
+Package,"rand.tests",1,76,57,10,,1,,0,,2
+Package,"rand.tests",1,86,73,9,,1,,0,,2
+Package,"rand.tests",2,113,89,16,,2,,1,,4
+Package,"rand.tests",2,61,48,5,,2,,2,,6
+Function,"rand.tests.test_random_circulant_gram_matrix.test_random_circulant_gram_matrix",,18,7,7,1,,,0,1.00,
+Function,"rand.tests.test_random_circulant_gram_matrix.test_random_circulant_gram_matrix_with_seed",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_density_matrix.test_random_density",,5,4,1,2,,,1,0.25,
+Function,"rand.tests.test_random_density_matrix.test_random_density_matrix",,18,9,5,2,,,1,0.56,
+Function,"rand.tests.test_random_density_matrix.test_seed",,10,9,1,1,,,0,0.11,
+Function,"rand.tests.test_random_ginibre.test_random_ginibre_dims",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_ginibre.test_random_ginibre_negative_dims",,4,3,1,1,,,1,0.33,
+Function,"rand.tests.test_random_ginibre.test_seed",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_orthonormal_basis.test_random_orth_basis_int_dim",,5,4,1,1,,,0,0.25,
+Function,"rand.tests.test_random_orthonormal_basis.test_seed",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_povm.test_random_povm_dimensions",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_povm.test_random_povm_validity",,6,5,1,2,,,1,0.20,
+Function,"rand.tests.test_random_povm.test_seed",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_psd_operator.test_random_psd_operator",,10,4,4,1,,,0,1.00,
+Function,"rand.tests.test_random_psd_operator.test_random_psd_operator_with_seed",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_state_vector.test_random_state_vector",,6,4,2,1,,,0,0.50,
+Function,"rand.tests.test_random_state_vector.test_seed",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_states.test_random_states",,15,7,6,2,,,1,0.86,
+Function,"rand.tests.test_random_states.test_seed",,7,5,1,2,,,1,0.20,
+Function,"rand.tests.test_random_unitary.test_non_square_dims",,5,4,1,2,,,2,0.25,
+Function,"rand.tests.test_random_unitary.test_random_unitary_int_dim",,4,3,1,1,,,0,0.33,
+Function,"rand.tests.test_random_unitary.test_random_unitary_list_dims",,5,4,1,2,,,1,0.25,
+Function,"rand.tests.test_random_unitary.test_seed",,4,3,1,1,,,0,0.33,
+Module File,"random_circulant_gram_matrix.py",1,75,6,51,0,1,,0,8.50,1
+Module File,"random_density_matrix.py",4,121,19,68,0,4,,1,3.58,4
+Module File,"random_ginibre.py",1,47,4,27,0,1,,0,6.75,1
+Module File,"random_orthonormal_basis.py",1,43,5,26,0,1,,0,5.20,1
+Module File,"random_povm.py",3,103,17,65,0,3,,2,3.82,3
+Module File,"random_psd_operator.py",2,84,14,48,0,2,,1,3.43,2
+Module File,"random_state_vector.py",5,97,31,42,0,5,,2,1.35,5
+Module File,"random_states.py",1,68,6,48,0,1,,0,8.00,1
+Module File,"random_unitary.py",4,119,18,65,0,4,,1,3.61,4
+Module File,"realignment.py",6,80,25,35,0,6,,1,1.40,6
+Module File,"reduction.py",1,52,7,32,0,1,,0,4.57,1
+Module File,"schmidt_decomposition.py",7,160,52,77,0,8,,2,1.48,13
+Module File,"schmidt_rank.py",5,126,29,62,0,5,,2,2.14,10
+Module File,"singlet.py",1,74,4,53,0,1,,0,13.25,1
+Module File,"sk_norm.py",13,387,230,83,0,28,,4,0.36,39
+Module File,"sk_vec_norm.py",4,72,15,38,0,4,,1,2.53,4
+Module File,"spark.py",6,61,14,33,0,6,,3,2.36,6
+Module File,"standard_basis.py",2,47,5,29,0,2,,0,5.80,2
+Module File,"state_distinguishability.py",2,248,85,103,0,6,,2,1.21,10
+Module File,"state_exclusion.py",2,282,97,120,0,6,,2,1.24,10
+Module File,"state_helper.py",2,18,9,4,0,2,,1,0.44,4
+Package,"state_metrics",0,12,10,1,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",2,72,6,48,,2,,1,,2
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",2,73,6,48,,2,,1,,2
+Package,"state_metrics",4,87,18,47,,4,,1,,4
+Package,"state_metrics",6,181,49,95,,6,,1,,6
+Package,"state_metrics",2,65,6,43,,2,,1,,2
+Package,"state_metrics",2,46,6,26,,2,,1,,2
+Package,"state_metrics",1,43,3,25,,1,,0,,1
+Package,"state_metrics",6,109,25,57,,6,,1,,6
+Package,"state_metrics",3,77,10,47,,3,,1,,3
+Package,"state_metrics",0,1,0,1,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",0,0,0,0,,0,,0,,0
+Package,"state_metrics",2,63,6,39,,2,,1,,2
+Function,"state_metrics.bures_angle.bures_angle",,62,4,45,2,,,1,11.25,
+Function,"state_metrics.bures_distance.bures_distance",,63,4,45,2,,,1,11.25,
+Function,"state_metrics.fidelity.fidelity",,78,14,46,4,,,1,3.29,
+Function,"state_metrics.fidelity_of_separability.fidelity_of_separability",,167,44,91,6,,,1,2.07,
+Function,"state_metrics.helstrom_holevo.helstrom_holevo",,58,4,42,2,,,1,10.50,
+Function,"state_metrics.hilbert_schmidt.hilbert_schmidt",,39,4,25,2,,,1,6.25,
+Function,"state_metrics.hilbert_schmidt_inner_product.hilbert_schmidt_inner_product",,38,2,24,1,,,0,12.00,
+Function,"state_metrics.matsumoto_fidelity.matsumoto_fidelity",,100,21,56,6,,,1,2.67,
+Function,"state_metrics.sub_fidelity.sub_fidelity",,67,8,44,3,,,1,5.50,
+Package,"state_metrics.tests",0,1,0,1,,0,,0,,0
+Package,"state_metrics.tests",1,62,37,7,,1,,1,,6
+Package,"state_metrics.tests",1,56,34,7,,1,,1,,6
+Package,"state_metrics.tests",1,57,34,7,,1,,1,,6
+Package,"state_metrics.tests",1,48,27,10,,1,,1,,3
+Package,"state_metrics.tests",1,30,17,3,,1,,1,,2
+Package,"state_metrics.tests",1,25,13,3,,1,,1,,2
+Package,"state_metrics.tests",1,42,27,6,,1,,0,,3
+Package,"state_metrics.tests",1,59,38,8,,1,,1,,3
+Package,"state_metrics.tests",1,51,30,6,,1,,1,,5
+Package,"state_metrics.tests",1,30,17,3,,1,,1,,2
+Function,"state_metrics.tests.test_bures_angle.test_bures_angle_default",,7,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_bures_angle.test_bures_angle_invalid_dim",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_bures_angle.test_bures_angle_non_identical_states_1",,8,6,1,1,,,0,0.17,
+Function,"state_metrics.tests.test_bures_angle.test_bures_angle_non_identical_states_2",,8,6,1,1,,,0,0.17,
+Function,"state_metrics.tests.test_bures_angle.test_bures_angle_non_square",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_bures_angle.test_bures_angle_pure_states",,9,7,1,1,,,0,0.14,
+Function,"state_metrics.tests.test_bures_distance.test_bures_distance_default",,7,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_bures_distance.test_bures_distance_invalid_dim",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_bures_distance.test_bures_distance_non_identical_states_1",,6,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_bures_distance.test_bures_distance_non_identical_states_2",,6,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_bures_distance.test_bures_distance_non_square",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_bures_distance.test_bures_distance_pure_states",,7,6,1,1,,,0,0.17,
+Function,"state_metrics.tests.test_fidelity.test_fidelity_cvx",,7,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_fidelity.test_fidelity_default",,7,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_fidelity.test_fidelity_invalid_dim",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_fidelity.test_fidelity_non_identical_states_1",,6,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_fidelity.test_fidelity_non_identical_states_2",,6,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_fidelity.test_fidelity_non_square",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_fidelity_of_separability.test_errors_state_SDP",,10,9,1,1,,,1,0.11,
+Function,"state_metrics.tests.test_fidelity_of_separability.test_sdp_output",,4,3,1,1,,,0,0.33,
+Function,"state_metrics.tests.test_helstrom_holevo.test_helstrom_holevo_non_density_matrix",,7,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_helstrom_holevo.test_helstrom_holevo_same_state",,13,9,1,1,,,0,0.11,
+Function,"state_metrics.tests.test_hilbert_schmidt.test_hilbert_schmidt_bell",,8,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_hilbert_schmidt.test_hilbert_schmidt_non_density_matrix",,7,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_hilbert_schmidt_inner_product.test_hilbert_schmidt_inner_product_hadamard_hadamard",,8,4,3,1,,,0,0.75,
+Function,"state_metrics.tests.test_hilbert_schmidt_inner_product.test_hilbert_schmidt_inner_product_is_conjugate_symmetric",,7,6,1,1,,,0,0.17,
+Function,"state_metrics.tests.test_hilbert_schmidt_inner_product.test_hilbert_schmidt_inner_product_linearity",,13,12,1,1,,,0,0.08,
+Function,"state_metrics.tests.test_matsumoto_fidelity.test_matsumoto_fidelity",,4,3,1,1,,,0,0.33,
+Function,"state_metrics.tests.test_matsumoto_fidelity.test_matsumoto_fidelity_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"state_metrics.tests.test_sub_fidelity.test_non_square_sub_fidelity",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_sub_fidelity.test_sub_fidelity_default",,7,5,1,1,,,0,0.20,
+Function,"state_metrics.tests.test_sub_fidelity.test_sub_fidelity_invalid_dim_sub_fidelity",,6,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_sub_fidelity.test_sub_fidelity_lower_bound_1",,8,6,1,1,,,0,0.17,
+Function,"state_metrics.tests.test_sub_fidelity.test_sub_fidelity_lower_bound_2",,8,6,1,1,,,0,0.17,
+Function,"state_metrics.tests.test_trace_distance.test_trace_distance_non_density_matrix",,7,5,1,1,,,1,0.20,
+Function,"state_metrics.tests.test_trace_distance.test_trace_distance_same_state",,13,9,1,1,,,0,0.11,
+Function,"state_metrics.trace_distance.trace_distance",,53,4,36,2,,,1,9.00,
+Package,"state_ops",0,3,1,1,,0,,0,,0
+Package,"state_ops",7,160,52,77,,8,,2,,13
+Package,"state_ops",0,1,0,1,,0,,0,,0
+Package,"state_ops",0,0,0,0,,0,,0,,0
+Package,"state_ops",0,0,0,0,,0,,0,,0
+Package,"state_ops",0,0,0,0,,0,,0,,0
+Function,"state_ops.schmidt_decomposition._operator_schmidt_decomposition",,48,25,15,5,,,1,0.60,
+Function,"state_ops.schmidt_decomposition.schmidt_decomposition",,105,26,61,8,,,2,2.35,
+Package,"state_ops.tests",0,1,0,1,,0,,0,,0
+Package,"state_ops.tests",1,166,127,24,,2,,1,,8
+Function,"state_ops.tests.test_schmidt_decomposition.test_allclose_phi5",,15,14,1,1,,,0,0.07,
+Function,"state_ops.tests.test_schmidt_decomposition.test_schmidt_decomp_random_operator",,9,8,1,1,,,0,0.13,
+Function,"state_ops.tests.test_schmidt_decomposition.test_schmidt_decomp_random_state",,9,8,1,1,,,0,0.13,
+Function,"state_ops.tests.test_schmidt_decomposition.test_schmidt_decomposition_input_dim",,13,12,1,2,,,1,0.08,
+Function,"state_ops.tests.test_schmidt_decomposition.test_schmidt_decomposition_no_input_dim",,16,13,1,2,,,1,0.08,
+Package,"state_opt",0,11,6,3,,0,,0,,0
+Package,"state_opt",14,149,52,67,,14,,5,,14
+Package,"state_opt",3,186,58,90,,6,,3,,10
+Package,"state_opt",4,207,89,81,,6,,4,,12
+Package,"state_opt",2,248,85,103,,6,,2,,10
+Package,"state_opt",2,282,97,120,,6,,2,,10
+Package,"state_opt",2,18,9,4,,2,,1,,4
+Package,"state_opt",9,199,52,113,,9,,2,,9
+Package,"state_opt",0,1,0,1,,0,,0,,0
+Package,"state_opt",0,0,0,0,,0,,0,,0
+Package,"state_opt",0,0,0,0,,0,,0,,0
+Package,"state_opt",0,0,0,0,,0,,0,,0
+Package,"state_opt",0,0,0,0,,0,,0,,0
+Package,"state_opt",0,0,0,0,,0,,0,,0
+Package,"state_opt",0,0,0,0,,0,,0,,0
+Function,"state_opt.bell_inequality_max.bell_inequality_max",,138,47,66,14,,,5,1.40,
+Function,"state_opt.optimal_clone.dual_problem",,17,10,3,2,,,1,0.30,
+Function,"state_opt.optimal_clone.optimal_clone",,124,25,79,6,,,3,3.16,
+Function,"state_opt.optimal_clone.primal_problem",,31,18,7,2,,,1,0.39,
+Function,"state_opt.ppt_distinguishability._min_error_dual",,36,30,1,2,,,1,0.03,
+Function,"state_opt.ppt_distinguishability._min_error_primal",,43,35,2,6,,,4,0.06,
+Function,"state_opt.ppt_distinguishability.ppt_distinguishability",,115,20,77,4,,,1,3.85,
+Function,"state_opt.state_distinguishability._min_error_dual",,22,15,3,1,,,0,0.20,
+Function,"state_opt.state_distinguishability._min_error_primal",,22,17,1,1,,,0,0.06,
+Function,"state_opt.state_distinguishability._unambiguous_dual",,24,15,3,1,,,0,0.20,
+Function,"state_opt.state_distinguishability._unambiguous_primal",,22,14,3,1,,,0,0.21,
+Function,"state_opt.state_distinguishability.state_distinguishability",,141,20,92,6,,,2,4.60,
+Function,"state_opt.state_exclusion._min_error_dual",,22,15,3,1,,,0,0.20,
+Function,"state_opt.state_exclusion._min_error_primal",,24,17,4,1,,,0,0.24,
+Function,"state_opt.state_exclusion._unambiguous_dual",,31,22,3,1,,,0,0.14,
+Function,"state_opt.state_exclusion._unambiguous_primal",,28,19,3,1,,,0,0.16,
+Function,"state_opt.state_exclusion.state_exclusion",,160,20,106,6,,,2,5.30,
+Function,"state_opt.state_helper.__is_probs_valid",,5,4,1,2,,,1,0.25,
+Function,"state_opt.state_helper.__is_states_valid",,6,4,2,2,,,1,0.50,
+Function,"state_opt.symmetric_extension_hierarchy.symmetric_extension_hierarchy",,188,47,112,9,,,2,2.38,
+Package,"state_opt.tests",0,1,0,1,,0,,0,,0
+Package,"state_opt.tests",1,90,60,15,,1,,1,,5
+Package,"state_opt.tests",1,48,32,8,,1,,0,,3
+Package,"state_opt.tests",1,265,184,34,,1,,1,,6
+Package,"state_opt.tests",1,78,54,10,,1,,1,,4
+Package,"state_opt.tests",1,102,79,10,,1,,1,,4
+Package,"state_opt.tests",1,147,97,17,,1,,1,,8
+Function,"state_opt.tests.test_bell_inequality_max.test_bell_inequality_max_degenerate",,7,3,3,1,,,0,1.00,
+Function,"state_opt.tests.test_bell_inequality_max.test_bell_inequality_max_invalid",,7,3,3,1,,,1,1.00,
+Function,"state_opt.tests.test_bell_inequality_max.test_bell_inequality_max_minimal",,9,4,4,1,,,0,1.00,
+Function,"state_opt.tests.test_bell_inequality_max.test_bell_inequality_max_valid",,4,3,1,1,,,0,0.33,
+Function,"state_opt.tests.test_optimal_clone.test_optimal_clone",,5,4,1,1,,,0,0.25,
+Function,"state_opt.tests.test_optimal_clone.test_optimal_clone_default_reps_strategy",,5,4,1,1,,,0,0.25,
+Function,"state_opt.tests.test_ppt_distinguishability.test_ppr_state_distinguishability_invalid_strategy",,14,13,1,1,,,1,0.08,
+Function,"state_opt.tests.test_ppt_distinguishability.test_ppt_distinguishability_four_bell_states",,64,36,17,1,,,0,0.47,
+Function,"state_opt.tests.test_ppt_distinguishability.test_ppt_distinguishability_yyd_density_matrices",,53,42,4,1,,,0,0.10,
+Function,"state_opt.tests.test_ppt_distinguishability.test_ppt_distinguishability_yyd_states_no_probs",,38,26,4,1,,,0,0.15,
+Function,"state_opt.tests.test_ppt_distinguishability.test_ppt_distinguishability_yyd_vectors",,49,38,4,1,,,0,0.11,
+Function,"state_opt.tests.test_ppt_distinguishability.test_ppt_state_distinguishability_invalid_vectors",,14,13,1,1,,,1,0.08,
+Function,"state_opt.tests.test_state_distinguishability.test_state_distinguishability_invalid_vectors",,6,5,1,1,,,1,0.20,
+Function,"state_opt.tests.test_state_distinguishability.test_state_distinguishability_min_error",,4,3,1,1,,,0,0.33,
+Function,"state_opt.tests.test_state_distinguishability.test_state_distinguishability_unambiguous",,6,5,1,1,,,0,0.20,
+Function,"state_opt.tests.test_state_exclusion.test_state_exclusion_invalid_vectors",,4,3,1,1,,,1,0.33,
+Function,"state_opt.tests.test_state_exclusion.test_state_exclusion_min_error",,4,3,1,1,,,0,0.33,
+Function,"state_opt.tests.test_state_exclusion.test_state_exclusion_unambiguous",,7,5,2,1,,,0,0.40,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_invalid_symmetric_extension_hierarchy_probs",,7,6,1,1,,,1,0.17,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_invalid_symmetric_extension_hierarchy_states",,5,4,1,1,,,1,0.25,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_symmetric_extension_hierarchy_extremal_werner_states",,12,7,4,1,,,0,0.57,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_symmetric_extension_hierarchy_four_bell_density_matrices",,10,9,1,1,,,0,0.11,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_symmetric_extension_hierarchy_four_bell_states",,5,4,1,1,,,0,0.25,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_symmetric_extension_hierarchy_four_bell_with_resource_state",,28,21,2,1,,,0,0.10,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_symmetric_extension_hierarchy_four_bell_with_resource_state_lvl_1",,30,21,4,1,,,0,0.19,
+Function,"state_opt.tests.test_symmetric_extension_hierarchy.test_symmetric_extension_hierarchy_three_bell_with_resource_state",,24,18,2,1,,,0,0.11,
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,26,24,1,,0,,0,,0
+Package,"state_props",1,78,6,49,,1,,0,,1
+Package,"state_props",2,89,11,51,,2,,1,,2
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",10,105,36,45,,10,,2,,10
+Package,"state_props",7,140,35,74,,7,,2,,7
+Package,"state_props",3,84,10,53,,3,,1,,3
+Package,"state_props",1,68,6,40,,1,,0,,1
+Package,"state_props",1,51,5,31,,1,,0,,1
+Package,"state_props",3,65,9,36,,3,,2,,3
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",1,44,4,26,,1,,0,,1
+Package,"state_props",2,75,9,45,,2,,1,,2
+Package,"state_props",7,104,17,64,,7,,5,,7
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",1,44,4,27,,1,,0,,1
+Package,"state_props",3,92,15,56,,3,,1,,3
+Package,"state_props",5,139,53,54,,11,,3,,16
+Package,"state_props",4,79,10,50,,4,,3,,4
+Package,"state_props",33,313,165,101,,33,,4,,33
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",9,117,34,59,,9,,4,,9
+Package,"state_props",1,53,5,32,,1,,0,,1
+Package,"state_props",6,79,28,31,,6,,2,,6
+Package,"state_props",6,80,28,32,,6,,2,,6
+Package,"state_props",2,62,6,38,,2,,1,,2
+Package,"state_props",5,126,29,62,,5,,2,,10
+Package,"state_props",4,72,15,38,,4,,1,,4
+Package,"state_props",0,1,0,1,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",0,0,0,0,,0,,0,,0
+Package,"state_props",2,91,8,58,,2,,1,,2
+Package,"state_props",0,0,0,0,,0,,0,,0
+Function,"state_props.common_quantum_overlap.common_quantum_overlap",,70,4,48,1,,,0,12.00,
+Function,"state_props.concurrence.concurrence",,79,9,48,2,,,1,5.33,
+Function,"state_props.entanglement_of_formation.entanglement_of_formation",,96,32,44,10,,,2,1.38,
+Function,"state_props.has_symmetric_extension.has_symmetric_extension",,130,30,73,7,,,2,2.43,
+Function,"state_props.in_separable_ball.in_separable_ball",,79,9,52,3,,,1,5.78,
+Function,"state_props.is_antidistinguishable.is_antidistinguishable",,58,4,37,1,,,0,9.25,
+Function,"state_props.is_distinguishable.is_distinguishable",,41,3,28,1,,,0,9.33,
+Function,"state_props.is_ensemble.is_ensemble",,58,7,35,3,,,2,5.00,
+Function,"state_props.is_mixed.is_mixed",,37,2,25,1,,,0,12.50,
+Function,"state_props.is_mutually_orthogonal.is_mutually_orthogonal",,68,7,44,2,,,1,6.29,
+Function,"state_props.is_mutually_unbiased_basis.is_mutually_unbiased_basis",,97,15,63,7,,,5,4.20,
+Function,"state_props.is_npt.is_npt",,37,2,26,1,,,0,13.00,
+Function,"state_props.is_ppt.is_ppt",,84,12,55,3,,,1,4.58,
+Function,"state_props.is_product._is_product",,48,32,10,11,,,3,0.31,
+Function,"state_props.is_product._operator_is_product",,31,16,8,4,,,1,0.50,
+Function,"state_props.is_product.is_product",,48,2,35,1,,,0,17.50,
+Function,"state_props.is_pure.is_pure",,74,9,49,4,,,3,5.44,
+Function,"state_props.is_separable.is_separable",,292,150,100,33,,,4,0.67,
+Function,"state_props.is_unextendible_product_basis.is_unextendible_product_basis",,105,28,58,9,,,4,2.07,
+Function,"state_props.l1_norm_coherence.l1_norm_coherence",,46,3,31,1,,,0,10.33,
+Function,"state_props.log_negativity.log_negativity",,71,25,30,6,,,2,1.20,
+Function,"state_props.negativity.negativity",,72,25,31,6,,,2,1.24,
+Function,"state_props.purity.purity",,55,4,37,2,,,1,9.25,
+Function,"state_props.schmidt_rank._operator_schmidt_rank",,26,16,4,5,,,1,0.25,
+Function,"state_props.schmidt_rank.schmidt_rank",,91,11,57,5,,,2,5.18,
+Function,"state_props.sk_vec_norm.sk_vector_norm",,65,13,37,4,,,1,2.85,
+Package,"state_props.tests",0,1,0,1,,0,,0,,0
+Package,"state_props.tests",1,46,32,8,,1,,0,,1
+Package,"state_props.tests",1,37,24,6,,1,,1,,3
+Package,"state_props.tests",1,64,44,13,,1,,1,,3
+Package,"state_props.tests",1,51,34,11,,1,,1,,2
+Package,"state_props.tests",1,30,19,6,,1,,0,,2
+Package,"state_props.tests",1,20,12,4,,1,,0,,1
+Package,"state_props.tests",1,20,12,4,,1,,0,,1
+Package,"state_props.tests",1,20,12,4,,1,,0,,1
+Package,"state_props.tests",1,20,12,3,,1,,0,,2
+Package,"state_props.tests",1,53,31,16,,1,,1,,2
+Package,"state_props.tests",1,83,69,7,,1,,0,,2
+Package,"state_props.tests",1,29,17,8,,1,,0,,1
+Package,"state_props.tests",1,27,16,7,,1,,0,,1
+Package,"state_props.tests",1,40,25,10,,1,,0,,2
+Package,"state_props.tests",1,33,22,6,,1,,0,,2
+Package,"state_props.tests",1,215,151,28,,2,,1,,17
+Package,"state_props.tests",1,49,33,9,,1,,1,,3
+Package,"state_props.tests",1,12,6,2,,1,,0,,1
+Package,"state_props.tests",1,42,29,7,,1,,1,,2
+Package,"state_props.tests",1,46,33,7,,1,,1,,2
+Package,"state_props.tests",1,34,22,6,,1,,1,,2
+Package,"state_props.tests",1,64,39,16,,1,,0,,4
+Package,"state_props.tests",1,31,19,4,,1,,0,,3
+Package,"state_props.tests",1,34,22,6,,1,,1,,2
+Function,"state_props.tests.test_common_quantum_overlap.test_common_quantum_overlap_parametrized",,4,3,1,1,,,0,0.33,
+Function,"state_props.tests.test_concurrence.test_concurrence",,4,3,1,1,,,0,0.33,
+Function,"state_props.tests.test_concurrence.test_concurrence_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"state_props.tests.test_entanglement_of_formation.test_entanglement_of_formation",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_entanglement_of_formation.test_entanglement_of_formation_invalid",,4,3,1,1,,,1,0.33,
+Function,"state_props.tests.test_has_symmetric_extension.test_has_symmetric_extension",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_has_symmetric_extension.test_has_symmetric_extension_invalid_dim",,5,4,1,1,,,1,0.25,
+Function,"state_props.tests.test_in_separable_ball.test_in_separable_ball",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_antidistinguishable.test_is_antidistinguishable",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_distinguishable.test_is_distinguishable",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_ensemble.test_is_ensemble",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_mixed.test_is_mixed",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_mutually_orthogonal.test_is_mutually_orthogonal",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_mutually_orthogonal.test_is_mutually_orthogonal_basis_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"state_props.tests.test_is_mutually_unbiased_basis.test_is_mutually_unbiased",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_npt.test_is_npt",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_ppt.test_is_ppt",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_product.test_is_product",,4,3,1,1,,,0,0.33,
+Function,"state_props.tests.test_is_pure.test_is_pure_state",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_separable.test_entangled_breuer_hall",,6,4,2,1,,,0,0.50,
+Function,"state_props.tests.test_is_separable.test_entangled_cross_norm_realignment_criterion",,12,11,1,1,,,0,0.09,
+Function,"state_props.tests.test_is_separable.test_entangled_ppt_criterion",,4,3,1,1,,,0,0.33,
+Function,"state_props.tests.test_is_separable.test_entangled_qutrit_qutrit",,8,6,2,1,,,0,0.33,
+Function,"state_props.tests.test_is_separable.test_entangled_realignment_criterion",,10,7,3,2,,,1,0.43,
+Function,"state_props.tests.test_is_separable.test_entangled_symmetric_extension",,19,16,3,1,,,0,0.19,
+Function,"state_props.tests.test_is_separable.test_entangled_zhang_realignment_criterion",,10,8,2,1,,,0,0.25,
+Function,"state_props.tests.test_is_separable.test_invalid_dim_parameter",,6,5,1,1,,,1,0.20,
+Function,"state_props.tests.test_is_separable.test_non_positive_semidefinite_matrix",,5,4,1,1,,,1,0.25,
+Function,"state_props.tests.test_is_separable.test_ppt_low_rank",,16,14,1,1,,,0,0.07,
+Function,"state_props.tests.test_is_separable.test_ppt_small_dimensions",,9,7,1,1,,,0,0.14,
+Function,"state_props.tests.test_is_separable.test_psd_matrix_local_dim_one",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_is_separable.test_separable_based_on_eigenvalues",,13,10,3,1,,,0,0.30,
+Function,"state_props.tests.test_is_separable.test_separable_closeness_to_maximally_mixed_state",,17,16,1,1,,,0,0.06,
+Function,"state_props.tests.test_is_separable.test_separable_schmidt_rank",,17,16,1,1,,,0,0.06,
+Function,"state_props.tests.test_is_separable.test_separable_small_rank1_perturbation_of_maximally_mixed_state",,17,16,1,1,,,0,0.06,
+Function,"state_props.tests.test_is_unextendible_product_basis.test_unextendible_product_basis",,4,3,1,1,,,0,0.33,
+Function,"state_props.tests.test_is_unextendible_product_basis.test_unextendible_product_basis_invalid",,4,3,1,1,,,1,0.33,
+Function,"state_props.tests.test_l1_norm_coherence.test_l1_norm_coherence_maximally_coherence",,5,4,1,1,,,0,0.25,
+Function,"state_props.tests.test_log_negativity.test_log_negativity",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_log_negativity.test_log_negativity_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"state_props.tests.test_negativity.test_negativity",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_negativity.test_negativity_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"state_props.tests.test_purity.test_purity",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_purity.test_purity_invalid",,4,3,1,1,,,1,0.33,
+Function,"state_props.tests.test_schmidt_rank.test_schmidt_rank_bell_state",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_schmidt_rank.test_schmidt_rank_entangled_state",,9,8,1,1,,,0,0.13,
+Function,"state_props.tests.test_schmidt_rank.test_schmidt_rank_singlet_state",,4,3,1,1,,,0,0.33,
+Function,"state_props.tests.test_sk_vec_norm.test_sk_norm_maximally_entagled_state",,5,4,1,1,,,0,0.25,
+Function,"state_props.tests.test_sk_vec_norm.test_sk_norm_maximally_entagled_state_with_dim",,5,4,1,1,,,0,0.25,
+Function,"state_props.tests.test_sk_vec_norm.test_sk_norm_maximally_entagled_state_with_none_dim",,5,4,1,1,,,0,0.25,
+Function,"state_props.tests.test_von_neumann_entropy.test_von_neumann_entropy",,3,2,1,1,,,0,0.50,
+Function,"state_props.tests.test_von_neumann_entropy.test_von_neumann_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"state_props.von_neumann_entropy.von_neumann_entropy",,84,6,57,2,,,1,9.50,
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,27,22,3,,0,,0,,0
+Package,"states",2,55,7,31,,2,,1,,2
+Package,"states",1,48,6,29,,1,,0,,1
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",5,66,14,37,,5,,0,,5
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",2,76,12,47,,2,,1,,2
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",2,53,10,27,,2,,1,,2
+Package,"states",3,65,12,40,,3,,1,,3
+Package,"states",4,74,16,41,,4,,1,,4
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",10,105,24,61,,10,,0,,10
+Package,"states",1,108,6,77,,1,,0,,1
+Package,"states",6,85,15,48,,6,,1,,6
+Package,"states",2,69,14,40,,2,,1,,2
+Package,"states",5,161,42,96,,5,,1,,5
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",1,66,5,46,,1,,0,,1
+Package,"states",3,65,8,39,,3,,1,,3
+Package,"states",2,75,6,46,,2,,1,,2
+Package,"states",6,86,33,33,,7,,3,,12
+Package,"states",3,66,17,30,,3,,2,,3
+Package,"states",1,74,4,53,,1,,0,,1
+Package,"states",0,1,0,1,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",6,81,16,49,,6,,0,,6
+Package,"states",0,0,0,0,,0,,0,,0
+Package,"states",1,45,9,23,,1,,0,,1
+Package,"states",5,97,13,61,,5,,1,,5
+Package,"states",7,125,24,76,,7,,3,,7
+Function,"states.basis.basis",,47,6,28,2,,,1,4.67,
+Function,"states.bb84.bb84",,38,4,26,1,,,0,6.50,
+Function,"states.bell.bell",,56,12,34,5,,,0,2.83,
+Function,"states.brauer.brauer",,67,8,46,2,,,1,5.75,
+Function,"states.breuer.breuer",,42,7,24,2,,,1,3.43,
+Function,"states.chessboard.chessboard",,56,11,36,3,,,1,3.27,
+Function,"states.dicke.dicke",,66,13,40,4,,,1,3.08,
+Function,"states.domino.domino",,98,22,60,10,,,0,2.73,
+Function,"states.gen_bell.gen_bell",,96,3,73,1,,,0,24.33,
+Function,"states.ghz.ghz",,76,14,44,6,,,1,3.14,
+Function,"states.gisin.gisin",,64,13,39,2,,,1,3.00,
+Function,"states.horodecki.horodecki",,152,41,92,5,,,1,2.24,
+Function,"states.isotropic.isotropic",,56,3,43,1,,,0,14.33,
+Function,"states.max_entangled.max_entangled",,56,6,36,3,,,1,6.00,
+Function,"states.max_mixed.max_mixed",,66,4,43,2,,,1,10.75,
+Function,"states.mutually_unbiased_basis._is_prime_power",,23,9,11,5,,,3,1.22,
+Function,"states.mutually_unbiased_basis.mutually_unbiased_basis",,49,21,18,7,,,3,0.86,
+Function,"states.pusey_barrett_rudolph.pusey_barrett_rudolph",,56,13,29,3,,,2,2.23,
+Function,"states.singlet.singlet",,67,2,52,1,,,0,26.00,
+Package,"states.tests",0,1,0,1,,0,,0,,0
+Package,"states.tests",1,28,16,6,,1,,1,,2
+Package,"states.tests",1,18,10,2,,1,,0,,1
+Package,"states.tests",1,41,25,9,,1,,1,,3
+Package,"states.tests",1,39,31,3,,1,,0,,2
+Package,"states.tests",1,31,20,5,,1,,1,,2
+Package,"states.tests",1,23,11,4,,1,,0,,3
+Package,"states.tests",1,55,38,9,,1,,1,,3
+Package,"states.tests",1,42,23,12,,1,,1,,3
+Package,"states.tests",1,24,14,6,,1,,0,,1
+Package,"states.tests",1,65,43,10,,1,,1,,4
+Package,"states.tests",1,26,16,3,,1,,1,,2
+Package,"states.tests",1,82,61,8,,1,,1,,4
+Package,"states.tests",1,25,18,2,,1,,0,,2
+Package,"states.tests",1,23,14,4,,1,,0,,2
+Package,"states.tests",1,19,10,3,,1,,0,,2
+Package,"states.tests",1,55,36,8,,1,,1,,4
+Package,"states.tests",1,39,30,5,,1,,0,,1
+Package,"states.tests",1,15,7,2,,1,,0,,1
+Package,"states.tests",1,42,25,10,,1,,1,,3
+Package,"states.tests",1,28,16,5,,1,,0,,1
+Package,"states.tests",1,50,34,6,,1,,1,,3
+Package,"states.tests",1,48,28,10,,1,,1,,4
+Function,"states.tests.test_basis.test_basis",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_basis.test_basis_invalid_dim",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_bb84.test_bb84",,11,8,1,1,,,0,0.13,
+Function,"states.tests.test_bell.test_bell",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_bell.test_bell_invalid",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_brauer.test_brauer",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_breuer.test_breuer",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_breuer.test_breuer_invalid",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_chessboard.test_chessboard",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_chessboard.test_chessboard_default_s",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_chessboard.test_chessboard_default_s_t",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_dicke.test_dicke_state",,6,5,1,1,,,0,0.20,
+Function,"states.tests.test_dicke.test_dicke_state_density_matrix",,7,6,1,1,,,0,0.17,
+Function,"states.tests.test_dicke.test_dicke_state_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_domino.test_domino",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_domino.test_domino_invalid_index",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_gen_bell.test_gen_bell",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_ghz.test_ghz",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_ghz.test_ghz_4_7",,23,17,3,1,,,0,0.18,
+Function,"states.tests.test_ghz.test_ghz_invalid_input",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_gisin.test_gisin_invalid",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_gisin.test_gisin_valid",,13,11,1,1,,,0,0.09,
+Function,"states.tests.test_horodecki.test_horodecki_invalid",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_horodecki.test_horodecki_state_2_4",,17,15,1,1,,,0,0.07,
+Function,"states.tests.test_horodecki.test_horodecki_state_3_3",,18,16,1,1,,,0,0.06,
+Function,"states.tests.test_horodecki.test_horodecki_state_3_3_default",,18,16,1,1,,,0,0.06,
+Function,"states.tests.test_isotropic.test_isotropic_qutrit",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_max_entangled.test_max_entangled",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_max_mixed.test_max_mixed_dim_2_full",,5,4,1,1,,,0,0.25,
+Function,"states.tests.test_max_mixed.test_max_mixed_dim_2_sparse",,5,4,1,1,,,0,0.25,
+Function,"states.tests.test_mutually_unbiased_basis.test_is_prime_power",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_mutually_unbiased_basis.test_mutually_unbiased_basis",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_mutually_unbiased_basis.test_mutually_unbiased_basis_prime_power_not_prime",,7,6,1,1,,,1,0.17,
+Function,"states.tests.test_mutually_unbiased_basis.test_mutually_unbiased_basis_unknown_for_dim",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_pusey_barrett_rudolph.test_pusey_barrett_rudolph",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_singlet.test_gen_bell_dim_2",,8,5,1,1,,,0,0.20,
+Function,"states.tests.test_tile.test_tile",,3,2,1,1,,,0,0.50,
+Function,"states.tests.test_tile.test_tile_invalid",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_trine.test_trine",,21,14,4,1,,,0,0.29,
+Function,"states.tests.test_w_state.test_w_state_3",,7,5,1,1,,,0,0.20,
+Function,"states.tests.test_w_state.test_w_state_generalized",,17,15,1,1,,,0,0.07,
+Function,"states.tests.test_w_state.test_w_state_invalid",,4,3,1,1,,,1,0.33,
+Function,"states.tests.test_werner.test_werner_multipartite",,4,3,1,1,,,0,0.33,
+Function,"states.tests.test_werner.test_werner_multipartite_valid",,7,5,2,1,,,0,0.40,
+Function,"states.tests.test_werner.test_werner_qutrit",,5,4,1,1,,,0,0.25,
+Function,"states.tests.test_werner.test_werner_state_invalid",,4,3,1,1,,,1,0.33,
+Function,"states.tile.tile",,74,14,48,6,,,0,3.43,
+Function,"states.trine.trine",,38,7,22,1,,,0,3.14,
+Function,"states.w_state.w_state",,87,11,57,5,,,1,5.18,
+Function,"states.werner.werner",,113,21,73,7,,,3,3.48,
+Module File,"sub_fidelity.py",3,77,10,47,0,3,,1,4.70,3
+Module File,"swap.py",9,153,45,75,0,9,,2,1.67,9
+Module File,"swap_operator.py",3,64,8,40,0,3,,1,5.00,3
+Module File,"symmetric_extension_hierarchy.py",9,199,52,113,0,9,,2,2.17,9
+Module File,"symmetric_projection.py",6,100,22,49,0,6,,1,2.23,6
+Module File,"tensor.py",8,163,36,90,0,12,,3,2.50,15
+Module File,"tensor_comb.py",4,78,15,43,0,4,,2,2.87,4
+Module File,"test_amplitude_damping.py",2,112,76,19,0,5,,2,0.25,9
+Module File,"test_antisymmetric_projection.py",1,36,22,8,1,1,,0,0.36,2
+Module File,"test_apply_channel.py",2,61,38,11,1,3,,1,0.29,6
+Module File,"test_basis.py",1,28,16,6,0,1,,1,0.38,2
+Module File,"test_bb84.py",1,18,10,2,0,1,,0,0.20,1
+Module File,"test_bell.py",1,41,25,9,1,1,,1,0.36,3
+Module File,"test_bell_inequality_max.py",1,90,60,15,1,1,,1,0.25,5
+Module File,"test_bitflip.py",1,83,58,13,0,1,,1,0.22,6
+Module File,"test_brauer.py",1,39,31,3,1,1,,0,0.10,2
+Module File,"test_breuer.py",1,31,20,5,0,1,,1,0.25,2
+Module File,"test_bures_angle.py",1,62,37,7,0,1,,1,0.19,6
+Module File,"test_bures_distance.py",1,56,34,7,0,1,,1,0.21,6
+Module File,"test_calculate_vector_matrix_dimension.py",1,63,33,10,0,1,,1,0.30,9
+Module File,"test_channel_dim.py",1,114,66,17,0,3,,1,0.26,15
+Module File,"test_channel_fidelity.py",1,44,30,7,1,1,,1,0.23,3
+Module File,"test_chessboard.py",1,23,11,4,0,1,,0,0.36,3
+Module File,"test_choi.py",1,52,36,5,0,1,,0,0.14,2
+Module File,"test_choi_rank.py",1,42,26,6,0,1,,1,0.23,3
+Module File,"test_choi_to_kraus.py",2,133,109,7,1,4,,2,0.06,7
+Module File,"test_cnot.py",1,13,7,2,0,1,,0,0.29,1
+Module File,"test_common_quantum_overlap.py",1,46,32,8,0,1,,0,0.25,1
+Module File,"test_complementary_channel.py",1,77,50,18,1,2,,1,0.36,4
+Module File,"test_completely_bounded_spectral_norm.py",1,14,9,2,0,1,,0,0.22,1
+Module File,"test_completely_bounded_trace_norm.py",1,45,30,9,1,1,,1,0.30,3
+Module File,"test_concurrence.py",1,37,24,6,1,1,,1,0.25,3
+Module File,"test_cyclic_permutation_matrix.py",2,35,19,7,0,2,,1,0.37,5
+Module File,"test_dephasing.py",1,30,16,3,0,1,,0,0.19,2
+Module File,"test_depolarizing.py",1,30,16,3,0,1,,0,0.19,2
+Module File,"test_diamond_distance.py",1,41,28,7,0,1,,1,0.25,2
+Module File,"test_dicke.py",1,55,38,9,0,1,,1,0.24,3
+Module File,"test_domino.py",1,42,23,12,1,1,,1,0.52,3
+Module File,"test_dual_channel.py",1,94,69,12,1,2,,1,0.17,4
+Module File,"test_entanglement_of_formation.py",1,64,44,13,1,1,,1,0.30,3
+Module File,"test_expr_as_np_array.py",1,26,13,4,0,1,,0,0.31,3
+Module File,"test_extended_nonlocal_game.py",1,188,129,15,0,1,,0,0.12,12
+Module File,"test_fidelity.py",1,57,34,7,0,1,,1,0.21,6
+Module File,"test_fidelity_of_separability.py",1,48,30,9,1,1,,1,0.30,3
+Module File,"test_fidelity_of_separability.py",1,48,27,10,1,1,,1,0.37,3
+Module File,"test_fourier.py",1,15,7,2,0,1,,0,0.29,1
+Module File,"test_gell_mann.py",1,103,54,12,0,1,,1,0.22,11
+Module File,"test_gen_bell.py",1,24,14,6,0,1,,0,0.43,1
+Module File,"test_gen_gell_mann.py",1,91,52,10,0,1,,0,0.19,9
+Module File,"test_gen_pauli.py",1,47,26,7,0,1,,0,0.27,3
+Module File,"test_gen_pauli_x.py",1,67,58,3,0,1,,0,0.05,2
+Module File,"test_gen_pauli_z.py",1,49,40,3,0,1,,0,0.07,2
+Module File,"test_ghz.py",1,65,43,10,1,1,,1,0.23,4
+Module File,"test_gisin.py",1,26,16,3,0,1,,1,0.19,2
+Module File,"test_hadamard.py",1,59,41,6,0,1,,0,0.15,5
+Module File,"test_has_same_dimension.py",1,45,14,17,0,1,,1,1.21,4
+Module File,"test_has_symmetric_extension.py",1,51,34,11,0,1,,1,0.32,2
+Module File,"test_helstrom_holevo.py",1,30,17,3,0,1,,1,0.18,2
+Module File,"test_hilbert_schmidt.py",1,25,13,3,0,1,,1,0.23,2
+Module File,"test_hilbert_schmidt_inner_product.py",1,42,27,6,0,1,,0,0.22,3
+Module File,"test_horodecki.py",1,82,61,8,0,1,,1,0.13,4
+Module File,"test_in_separable_ball.py",1,30,19,6,1,1,,0,0.32,2
+Module File,"test_is_anti_hermitian.py",1,20,11,5,1,1,,0,0.45,2
+Module File,"test_is_antidistinguishable.py",1,20,12,4,0,1,,0,0.33,1
+Module File,"test_is_block_positive.py",2,91,62,15,1,5,,2,0.24,10
+Module File,"test_is_circulant.py",1,23,11,4,0,1,,0,0.36,3
+Module File,"test_is_commuting.py",1,19,10,3,0,1,,0,0.30,2
+Module File,"test_is_completely_positive.py",1,19,9,3,0,1,,0,0.33,2
+Module File,"test_is_density.py",1,18,9,3,0,1,,0,0.33,2
+Module File,"test_is_diagonal.py",1,23,11,4,0,1,,0,0.36,3
+Module File,"test_is_diagonally_dominant.py",1,41,18,10,0,1,,0,0.56,4
+Module File,"test_is_distinguishable.py",1,20,12,4,0,1,,0,0.33,1
+Module File,"test_is_ensemble.py",1,20,12,4,0,1,,0,0.33,1
+Module File,"test_is_extremal.py",1,98,63,20,0,1,,1,0.32,2
+Module File,"test_is_herm_preserving.py",1,34,17,5,0,1,,0,0.29,4
+Module File,"test_is_hermitian.py",1,20,11,5,1,1,,0,0.45,2
+Module File,"test_is_idempotent.py",1,41,20,7,0,1,,0,0.35,6
+Module File,"test_is_identity.py",1,23,11,4,0,1,,0,0.36,3
+Module File,"test_is_linearly_independent.py",1,18,12,2,0,1,,0,0.17,1
+Module File,"test_is_mixed.py",1,20,12,3,1,1,,0,0.25,2
+Module File,"test_is_mutually_orthogonal.py",1,53,31,16,0,1,,1,0.52,2
+Module File,"test_is_mutually_unbiased_basis.py",1,83,69,7,1,1,,0,0.10,2
+Module File,"test_is_nonnegative.py",1,20,11,3,0,1,,1,0.27,2
+Module File,"test_is_normal.py",1,32,14,7,0,1,,0,0.50,4
+Module File,"test_is_npt.py",1,29,17,8,0,1,,0,0.47,1
+Module File,"test_is_orthonormal.py",1,27,14,3,0,1,,0,0.21,2
+Module File,"test_is_permutation.py",1,47,23,8,0,1,,0,0.35,7
+Module File,"test_is_positive.py",1,19,9,3,0,1,,0,0.33,2
+Module File,"test_is_positive.py",1,12,5,2,0,1,,0,0.40,1
+Module File,"test_is_positive_definite.py",1,53,39,4,0,1,,0,0.10,3
+Module File,"test_is_positive_semidefinite.py",1,17,8,3,0,1,,0,0.38,2
+Module File,"test_is_povm.py",1,32,17,4,0,1,,0,0.24,3
+Module File,"test_is_ppt.py",1,27,16,7,0,1,,0,0.44,1
+Module File,"test_is_product.py",1,40,25,10,1,1,,0,0.40,2
+Module File,"test_is_projection.py",1,29,14,5,0,1,,0,0.36,4
+Module File,"test_is_pseudo_hermitian.py",1,65,48,9,0,1,,0,0.19,2
+Module File,"test_is_pseudo_unitary.py",1,29,20,8,0,1,,0,0.40,2
+Module File,"test_is_pure.py",1,33,22,6,1,1,,0,0.27,2
+Module File,"test_is_quantum_channel.py",1,19,9,3,0,1,,0,0.33,2
+Module File,"test_is_separable.py",1,215,151,28,0,2,,1,0.19,17
+Module File,"test_is_square.py",1,23,11,4,0,1,,1,0.36,3
+Module File,"test_is_stochastic.py",1,29,17,4,0,1,,1,0.24,3
+Module File,"test_is_symmetric.py",1,23,11,4,0,1,,0,0.36,3
+Module File,"test_is_totally_positive.py",1,49,29,14,0,1,,1,0.48,2
+Module File,"test_is_trace_preserving.py",1,19,12,2,1,1,,0,0.17,2
+Module File,"test_is_unextendible_product_basis.py",1,49,33,9,1,1,,1,0.27,3
+Module File,"test_is_unital.py",1,59,37,7,0,1,,1,0.19,6
+Module File,"test_is_unitary.py",1,42,20,7,0,1,,0,0.35,6
+Module File,"test_is_unitary.py",1,36,18,6,0,1,,0,0.33,5
+Module File,"test_isotropic.py",1,25,18,2,1,1,,0,0.11,2
+Module File,"test_kp_norm.py",1,33,19,7,0,1,,1,0.37,2
+Module File,"test_kraus_to_choi.py",1,130,101,8,1,1,,0,0.08,2
+Module File,"test_l1_norm_coherence.py",1,12,6,2,0,1,,0,0.33,1
+Module File,"test_log_negativity.py",1,42,29,7,0,1,,1,0.24,2
+Module File,"test_majorizes.py",1,26,14,4,0,1,,0,0.29,3
+Module File,"test_matsumoto_fidelity.py",1,59,38,8,1,1,,1,0.21,3
+Module File,"test_max_entangled.py",1,23,14,4,1,1,,0,0.29,2
+Module File,"test_max_mixed.py",1,19,10,3,0,1,,0,0.30,2
+Module File,"test_measure.py",1,18,11,2,0,1,,0,0.18,1
+Module File,"test_mutually_unbiased_basis.py",1,55,36,8,0,1,,1,0.22,4
+Module File,"test_natural_representataion.py",1,74,52,10,1,1,,1,0.19,5
+Module File,"test_negativity.py",1,46,33,7,0,1,,1,0.21,2
+Module File,"test_nonlocal_game.py",2,253,159,41,0,6,,5,0.26,39
+Module File,"test_np_array_as_expr.py",1,14,7,2,0,1,,0,0.29,1
+Module File,"test_npa_hierarchy.py",4,105,67,13,0,12,,4,0.19,17
+Module File,"test_optimal_clone.py",1,48,32,8,1,1,,0,0.25,3
+Module File,"test_partial_channel.py",3,166,135,11,1,4,,2,0.08,10
+Module File,"test_partial_trace.py",1,629,547,71,1,1,,1,0.13,4
+Module File,"test_partial_transpose.py",1,740,585,60,0,1,,1,0.10,19
+Module File,"test_pauli.py",1,99,54,12,0,1,,0,0.22,11
+Module File,"test_pauli_channel.py",2,169,91,36,0,3,,2,0.40,9
+Module File,"test_perfect_matchings.py",1,56,40,5,0,1,,0,0.13,4
+Module File,"test_perm_sign.py",1,17,8,3,0,1,,0,0.38,2
+Module File,"test_permutation_operator.py",1,91,62,8,0,1,,0,0.13,7
+Module File,"test_permute_systems.py",1,168,129,9,0,1,,1,0.07,8
+Module File,"test_perturb_vector.py",2,67,48,8,0,2,,1,0.17,7
+Module File,"test_phase_damping.py",2,102,65,17,0,3,,1,0.26,9
+Module File,"test_positive_semidefinite_rank.py",1,43,29,8,0,1,,1,0.28,2
+Module File,"test_ppt_distinguishability.py",1,265,184,34,0,1,,1,0.18,6
+Module File,"test_pretty_bad_measurement.py",1,74,57,9,0,1,,1,0.16,3
+Module File,"test_pretty_good_measurement.py",1,74,57,9,0,1,,1,0.16,3
+Module File,"test_purity.py",1,34,22,6,0,1,,1,0.27,2
+Module File,"test_pusey_barrett_rudolph.py",1,39,30,5,0,1,,0,0.17,1
+Module File,"test_quantum_hedging.py",1,102,48,26,0,1,,0,0.54,8
+Module File,"test_random_circulant_gram_matrix.py",1,67,45,13,0,1,,0,0.29,2
+Module File,"test_random_density_matrix.py",2,112,84,16,0,2,,1,0.19,5
+Module File,"test_random_ginibre.py",1,58,44,7,0,1,,1,0.16,3
+Module File,"test_random_orthonormal_basis.py",1,46,35,3,0,1,,0,0.09,2
+Module File,"test_random_povm.py",1,64,53,4,0,2,,1,0.08,4
+Module File,"test_random_psd_operator.py",1,76,57,10,0,1,,0,0.18,2
+Module File,"test_random_state_vector.py",1,86,73,9,0,1,,0,0.12,2
+Module File,"test_random_states.py",2,113,89,16,0,2,,1,0.18,4
+Module File,"test_random_unitary.py",2,61,48,5,0,2,,2,0.10,6
+Module File,"test_realignment.py",1,72,47,11,0,1,,0,0.23,4
+Module File,"test_reduction.py",1,43,33,3,0,1,,0,0.09,2
+Module File,"test_schmidt_decomposition.py",1,166,127,24,1,2,,1,0.19,8
+Module File,"test_schmidt_rank.py",1,64,39,16,1,1,,0,0.41,4
+Module File,"test_singlet.py",1,15,7,2,0,1,,0,0.29,1
+Module File,"test_sk_norm.py",1,141,87,26,0,1,,1,0.30,12
+Module File,"test_sk_vec_norm.py",1,31,19,4,0,1,,0,0.21,3
+Module File,"test_spark.py",1,38,28,6,0,1,,1,0.21,3
+Module File,"test_standard_basis.py",1,23,12,3,0,1,,0,0.25,2
+Module File,"test_state_distinguishability.py",1,78,54,10,1,1,,1,0.19,4
+Module File,"test_state_exclusion.py",1,102,79,10,1,1,,1,0.13,4
+Module File,"test_sub_fidelity.py",1,51,30,6,0,1,,1,0.20,5
+Module File,"test_swap.py",1,521,486,29,0,1,,1,0.06,2
+Module File,"test_swap_operator.py",1,25,12,3,0,1,,0,0.25,2
+Module File,"test_symmetric_extension_hierarchy.py",1,147,97,17,0,1,,1,0.18,8
+Module File,"test_symmetric_projection.py",1,135,89,17,0,2,,1,0.19,11
+Module File,"test_tensor.py",2,80,52,21,1,4,,1,0.40,6
+Module File,"test_tensor_comb.py",1,44,28,7,1,2,,1,0.25,4
+Module File,"test_tile.py",1,42,25,10,1,1,,1,0.40,3
+Module File,"test_to_density_matrix.py",2,33,21,8,0,2,,2,0.38,2
+Module File,"test_trace_distance.py",1,30,17,3,0,1,,1,0.18,2
+Module File,"test_trace_norm.py",1,22,13,2,0,1,,0,0.15,1
+Module File,"test_trine.py",1,28,16,5,0,1,,0,0.31,1
+Module File,"test_unique_perms.py",1,11,5,2,0,1,,0,0.40,1
+Module File,"test_unvec.py",1,20,12,4,0,1,,0,0.33,1
+Module File,"test_update_odometer.py",1,27,13,9,0,1,,0,0.69,1
+Module File,"test_vec.py",1,18,11,3,0,1,,0,0.27,1
+Module File,"test_vectors_from_gram_matrix.py",1,46,30,6,0,1,,1,0.20,3
+Module File,"test_vectors_to_gram_matrix.py",1,34,22,5,1,1,,1,0.23,3
+Module File,"test_von_neumann_entropy.py",1,34,22,6,0,1,,1,0.27,2
+Module File,"test_w_state.py",1,50,34,6,0,1,,1,0.18,3
+Module File,"test_werner.py",1,48,28,10,0,1,,1,0.36,4
+Module File,"test_xor_game.py",1,197,141,18,0,1,,1,0.13,16
+Module File,"tile.py",6,81,16,49,0,6,,0,3.06,6
+Module File,"to_density_matrix.py",5,49,15,23,0,5,,2,1.53,5
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,9,7,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,7,5,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,13,11,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,35,33,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,3,1,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,3,1,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,4,2,1,,0,,0,,0
+Package,"toqito",0,4,2,1,,0,,0,,0
+Package,"toqito",0,4,2,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,11,9,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,12,10,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,3,1,1,,0,,0,,0
+Package,"toqito",0,3,1,1,,0,,0,,0
+Package,"toqito",0,3,1,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,11,6,3,,0,,0,,0
+Package,"toqito",0,11,6,3,,0,,0,,0
+Package,"toqito",0,11,6,3,,0,,0,,0
+Package,"toqito",0,11,6,3,,0,,0,,0
+Package,"toqito",0,11,6,3,,0,,0,,0
+Package,"toqito",0,11,6,3,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,26,24,1,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,27,22,3,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_metrics",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_props",0,0,0,0,,0,,0,,0
+Package,"toqito.channel_props",0,0,0,0,,0,,0,,0
+Package,"toqito.channels",0,0,0,0,,0,,0,,0
+Package,"toqito.channels",0,0,0,0,,0,,0,,0
+Package,"toqito.channels",0,0,0,0,,0,,0,,0
+Package,"toqito.channels",0,0,0,0,,0,,0,,0
+Package,"toqito.helper",0,0,0,0,,0,,0,,0
+Package,"toqito.helper",0,0,0,0,,0,,0,,0
+Package,"toqito.matrices",0,0,0,0,,0,,0,,0
+Package,"toqito.matrices",0,0,0,0,,0,,0,,0
+Package,"toqito.matrices",0,0,0,0,,0,,0,,0
+Package,"toqito.matrix_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.matrix_props",0,0,0,0,,0,,0,,0
+Package,"toqito.matrix_props",0,0,0,0,,0,,0,,0
+Package,"toqito.matrix_props",0,0,0,0,,0,,0,,0
+Package,"toqito.matrix_props",0,0,0,0,,0,,0,,0
+Package,"toqito.matrix_props",0,0,0,0,,0,,0,,0
+Package,"toqito.measurement_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.measurement_props",0,0,0,0,,0,,0,,0
+Package,"toqito.measurements",0,0,0,0,,0,,0,,0
+Package,"toqito.nonlocal_games",0,0,0,0,,0,,0,,0
+Package,"toqito.nonlocal_games",0,0,0,0,,0,,0,,0
+Package,"toqito.nonlocal_games",0,0,0,0,,0,,0,,0
+Package,"toqito.nonlocal_games",0,0,0,0,,0,,0,,0
+Package,"toqito.nonlocal_games",0,0,0,0,,0,,0,,0
+Package,"toqito.nonlocal_games",0,0,0,0,,0,,0,,0
+Package,"toqito.perms",0,0,0,0,,0,,0,,0
+Package,"toqito.perms",0,0,0,0,,0,,0,,0
+Package,"toqito.perms",0,0,0,0,,0,,0,,0
+Package,"toqito.rand",0,0,0,0,,0,,0,,0
+Package,"toqito.rand",0,0,0,0,,0,,0,,0
+Package,"toqito.rand",0,0,0,0,,0,,0,,0
+Package,"toqito.state_metrics",0,0,0,0,,0,,0,,0
+Package,"toqito.state_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.state_ops",0,0,0,0,,0,,0,,0
+Package,"toqito.state_opt",0,0,0,0,,0,,0,,0
+Package,"toqito.state_opt",0,0,0,0,,0,,0,,0
+Package,"toqito.state_opt",0,0,0,0,,0,,0,,0
+Package,"toqito.state_opt",0,0,0,0,,0,,0,,0
+Package,"toqito.state_opt",0,0,0,0,,0,,0,,0
+Package,"toqito.state_props",0,0,0,0,,0,,0,,0
+Package,"toqito.state_props",0,0,0,0,,0,,0,,0
+Package,"toqito.state_props",0,0,0,0,,0,,0,,0
+Package,"toqito.state_props",0,0,0,0,,0,,0,,0
+Package,"toqito.state_props",0,0,0,0,,0,,0,,0
+Package,"toqito.state_props",0,0,0,0,,0,,0,,0
+Package,"toqito.states",0,0,0,0,,0,,0,,0
+Package,"toqito.states",0,0,0,0,,0,,0,,0
+Package,"toqito.states",0,0,0,0,,0,,0,,0
+Package,"toqito.states",0,0,0,0,,0,,0,,0
+Module File,"trace_distance.py",2,63,6,39,0,2,,1,6.50,2
+Module File,"trace_norm.py",1,51,3,32,0,1,,0,10.67,1
+Module File,"trine.py",1,45,9,23,0,1,,0,2.56,1
+Module File,"unique_perms.py",3,62,20,23,0,4,,3,1.15,5
+Module File,"unvec.py",2,91,8,56,0,2,,1,7.00,2
+Module File,"update_odometer.py",5,76,16,44,0,5,,3,2.75,5
+Module File,"vec.py",1,89,3,59,0,1,,0,19.67,1
+Module File,"vectors_from_gram_matrix.py",3,56,13,30,0,3,,1,2.31,3
+Module File,"vectors_to_gram_matrix.py",2,52,6,33,0,2,,1,5.50,2
+Module File,"von_neumann_entropy.py",2,91,8,58,0,2,,1,7.25,2
+Module File,"w_state.py",5,97,13,61,0,5,,1,4.69,5
+Module File,"werner.py",7,125,24,76,0,7,,3,3.17,7
+Module File,"xor_game.py",3,262,66,141,0,5,,4,2.14,16
